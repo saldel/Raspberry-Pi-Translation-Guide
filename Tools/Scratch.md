@@ -1,4 +1,4 @@
-# How to translate Scratch
+# How to translate code in online Scratch editor
 
 If you're a **Translator** or a **Reviewer**, open the project’s Scratch Editor page by going to the Task Manager and clicking the **EN Trinket/Scratch** link. If you’re a **Tester**, there is no need to use the Scratch link from the Task Manager - the translated link will be embedded in the test version of the project.
 
