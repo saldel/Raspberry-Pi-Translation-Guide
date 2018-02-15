@@ -10,19 +10,19 @@ If you’re not registered with us as a translation volunteer, please do so by f
 
 Most of the time, we will be translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/) so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises. 
 
-Many of our learning resources focus on teaching skills in programming with Scratch, Python, HTML/CSS and JavaScript. If you’re not familiar with these programming languages, please read the following guidelines which explain what they are and how you should approach them in translation:
+Many of our learning resources focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If you’re not familiar with these programming languages, please read the following guidelines which explain what they are and how you should approach them in translation:
 
 -	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
 - [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
 
-Majority of resources consist of the textual and visual instructions displayed on the [project’s web page](https://projects.raspberrypi.org/en/projects/rock-band) and an online [Trinket](https://trinket.io/embed/python/33e5c3b81b#.WoV106jFI2w)/[Scratch](https://scratch.mit.edu/projects/editor/) page that learners use to write and run their code according to the project instructions. Please note that some Trinkets/Scratch pages may be empty while others may already contain some initial code for learners to build on. We need to translate both the project instructions and the initial code. Please read the next two sections to find out how we want you to do it. 
+Majority of resources consist of the textual and visual instructions displayed on the [project’s web page](https://projects.raspberrypi.org/en/projects/rock-band), and an online [Trinket](https://trinket.io/embed/python/33e5c3b81b#.WoV106jFI2w)/[Scratch](https://scratch.mit.edu/projects/editor/) page that learners use to write and run their code according to the project instructions. Please note that some Trinkets/Scratch pages may be empty while others may already contain some initial code for learners to build on. We need to translate both the project instructions and the initial code. Please carefully read the next two sections (and all the files they link to) to find out how we want you to do it. 
 
 ## About the proccess
 
 To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
 
-1. Translation: a volunteer translator either translates a text from scratch, or edit a text that was pre-translated using software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code.
+1. Translation: a volunteer translator either translates a text from scratch, or edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code.
 
 2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing.
 
