@@ -8,15 +8,15 @@ HTML describes the structure of web pages with the help of tags. Tags define how
 
 - Most tags have two parts – the opening (e.g. `<h1>`) and the closing part (e.g. `</h1>`). These tags **should not be translated**.
 
-![screenshot](images/HTML_tags)
+![screenshot](images/HTML_tags.png)
 
 - Some HTML tags will contain information within them – that information should not be translated.
 
-![screenshot](images/HTML_tags_info)
+![screenshot](images/HTML_tags_info.png)
 
 - You will notice that there are some strings of text inserted between the opening and the closing tag – these strings **should be translated** because this is the text that is displayed on the webpage.
 
-![screenshot](images/HTML_tags_trans)
+![screenshot](images/HTML_tags_trans.png)
 
 ## CSS
 
