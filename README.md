@@ -38,6 +38,6 @@ You will be required to use three tools:
 
 2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Learn [how to translate Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket) and [how to translated Scratch page](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch).
 
-3. Crowdin: you will use it to translate project instructions (textual and visual). Learn [how to use Crowdin here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin).
+3. Crowdin: you will use it to translate project instructions (textual and visual). Learn [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin).
 
 Please not that we are still working on selecting the best tools for the process so things may change. We will notify you if we replace any of these tools. 
