@@ -12,9 +12,9 @@ Most of the time, we will be translating our learning resources available on the
 
 Many of our learning resources focus on teaching skills in programming with Scratch, Python, HTML/CSS and JavaScript. If you’re not familiar with these programming languages, please read the following guidelines which explain what they are and how you should approach them in translation:
 
--	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python)
-- [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch)
-- [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML)
+-	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
+- [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
+- [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
 
 Majority of resources consist of the textual and visual instructions displayed on the [project’s web page](https://projects.raspberrypi.org/en/projects/rock-band) and an online [Trinket](https://trinket.io/embed/python/33e5c3b81b#.WoV106jFI2w)/[Scratch](https://scratch.mit.edu/projects/editor/) page that learners use to write and run their code according to the project instructions. Please note that some Trinkets/Scratch pages may be empty while others may already contain some initial code for learners to build on. We need to translate both the project instructions and the initial code. Please read the next two sections to find out how we want you to do it. 
 
@@ -34,10 +34,10 @@ Most of the time, we will let you know which part of the process we want you to 
 
 You will be required to use three tools:
 
-1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Learn [how to use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager).
+1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Learn [how to use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
-2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Learn [how to translate Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket) and [how to translate Scratch page](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch).
+2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Learn [how to translate Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md) and [how to translate Scratch page](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md).
 
-3. Crowdin: you will use it to translate project instructions (textual and visual). Learn [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin).
+3. Crowdin: you will use it to translate project instructions (textual and visual). Learn [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md).
 
 Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools. 
