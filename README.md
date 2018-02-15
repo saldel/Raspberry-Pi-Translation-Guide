@@ -34,10 +34,10 @@ Most of the time, we will let you know which part of the process we want you to 
 
 You will be required to use three tools:
 
-1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Learn how to use the Task Manager here [hyperlink].
+1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Learn [how to use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager).
 
-2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Learn how to translate Trinket/Scratch page here [hyperlink].
+2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Learn [how to translate Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket) and [how to translated Scratch page](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch).
 
-3. Crowdin: you will use it to translate project instructions (textual and visual). Learn how to use Crowdin here [hyperlink].
+3. Crowdin: you will use it to translate project instructions (textual and visual). Learn [how to use Crowdin here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin).
 
 Please not that we are still working on selecting the best tools for the process so things may change. We will notify you if we replace any of these tools. 
