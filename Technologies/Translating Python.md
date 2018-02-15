@@ -6,7 +6,7 @@ Python is a popular object-oriented programming language, often used for web and
 
 ![screenshot](images/Python_en_string.png)
 
-![screenshot](images/Python_pl_string.png)
+![screenshot](images/Python_fr_string.png)
 
  - The strings **Hello** and **Here’s a picture of a dog…** should be translated because they will be displayed when the learner runs the programme so it’s important for them to understand what it says.
  
