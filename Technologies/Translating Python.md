@@ -2,7 +2,7 @@
 
 Python is a popular object-oriented programming language, often used for web and app development. Generally, Python code **should not be translated** with the exception of **variable names**, **strings** and **comments**.
 
-- **String** is a sequence of characters, created with single quotes, double quotes or triple quotes:
+1. **String** is a sequence of characters, created with single quotes, double quotes or triple quotes:
 
 ![screenshot](images/Python_en_string.png)
 
@@ -14,7 +14,7 @@ Python is a popular object-oriented programming language, often used for web and
  
  - The function print() (and all other Python functions) should not be translated because if it is, the code won’t work.
  
-- **Variables** are used to store information and to access it. Programmer chooses names of variables so they **should be translated** to make them more meaningful to learners.
+2. **Variables** are used to store information and to access it. Programmer chooses names of variables so they **should be translated** to make them more meaningful to learners.
 
  - For example, we can create a variable called **_name_** and assign it the value **_Larry_**. We can then ask Python to print the variable **_name_** and it will display **_Larry_** (on the right hand side):
  
@@ -32,6 +32,6 @@ Python is a popular object-oriented programming language, often used for web and
  
  ![screenshot](images/Python_non_localizable_variable.png)
  
-- **Comments** are used by programmes to give more details about a given line of code; they are marked with the # sign. These **should be translated**.
+3. **Comments** are used by programmes to give more details about a given line of code; they are marked with the # sign. These **should be translated**.
 
 ![screenshot](images/Python_comments.png)
