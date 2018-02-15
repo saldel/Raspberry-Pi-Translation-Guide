@@ -1,6 +1,6 @@
 # How to use the Task Manager
 
-If you are available to help us with the project, go to [Task Manager](https://docs.google.com/spreadsheets/d/1vqu2VDPIA0C-UW6pMSsoS6UsUyzry7paspLV63hkqhs/edit?usp=sharing), select your language from  among the tabs at the bottom of the spreadsheet (see below), and look up the project’s name.
+If you are available to help us with a project, go to [Task Manager](https://docs.google.com/spreadsheets/d/1vqu2VDPIA0C-UW6pMSsoS6UsUyzry7paspLV63hkqhs/edit?usp=sharing), select your language from  among the tabs at the bottom of the spreadsheet (see below), and look up the project’s name.
 
 ![screenshot](images/Task_Manager_language_selection.png)
 
