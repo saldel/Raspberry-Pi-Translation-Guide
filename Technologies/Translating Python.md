@@ -4,5 +4,5 @@ Python is a popular object-oriented programming language, often used for web and
 
 - **String** is a sequence of characters, created with single quotes, double quotes or triple quotes:
 
-![alt text](images/Python_en%string.png)
+![screenshot](images/Python_en%string.png)
 
