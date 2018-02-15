@@ -40,4 +40,4 @@ You will be required to use three tools:
 
 3. Crowdin: you will use it to translate project instructions (textual and visual). Learn [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin).
 
-Please not that we are still working on selecting the best tools for the process so things may change. We will notify you if we replace any of these tools. 
+Please note that we are still working on selecting the best tools for the process so things may change. We will notify you if we replace any of these tools. 
