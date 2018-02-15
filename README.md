@@ -16,5 +16,22 @@ Many of our learning resources focus on teaching skills in programming with Scra
 - Scratch [hyperlink]
 - HTML/CSS/JavaScript [hyperlink]
 
-Majority of resources consist of the textual and visual instructions [hyperlink] displayed on the project’s web page and an online Trinket/Scratch page [hyperlink] that learners use to write and run their code according to the project instructions. Please note that some Trinkets/Scratch pages may be empty while others may already contain some initial code for learners to build on. We need to translate both the project instructions and the initial code. Please read the next two sections to find out how we want you to do it. 
+Majority of resources consist of the textual and visual instructions displayed on the project’s web page [hyperlink] and an online Trinket/Scratch page [hyperlink] that learners use to write and run their code according to the project instructions. Please note that some Trinkets/Scratch pages may be empty while others may already contain some initial code for learners to build on. We need to translate both the project instructions and the initial code. Please read the next two sections to find out how we want you to do it. 
+
+## About the proccess
+
+To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
+
+1. Translation
+A volunteer translator will either translate a text from scratch, or edit a text that was pre-translated using software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code.
+
+2. Review
+Next, a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing.
+
+3. Test
+Finally, a volunteer tester will go through the translated and reviewed text to try it out and ensure that it can be used for its purpose.
+
+Most of the time, we will let you know which part of the process we want you to contribute to. However, there will be urgent translations that need to be done quickly, in which case we will let you choose your role in the process. 
+
+## About the tools
 
