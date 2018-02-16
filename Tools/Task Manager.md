@@ -43,3 +43,13 @@ Before you start testing, please wait for the **Review status** cell in Task Man
 - If you come across issues that make it difficult or impossible to progress with the project, please let us know: select the **Issues found** option in the **Testing Feedback** cell in Task Manager, and fill in a report form (you can access it by clicking [here](https://docs.google.com/forms/d/e/1FAIpQLSd1136TVh8zdM7u8k3U1a6XXCq0H-yrhYp-YbvP36pLiun6Bg/viewform?pli=1) or clicking on the **Testing Feedback** cell in the Task Manager and following the hyperlink).
 
 ![screenshot](images/Task_Manager_testing_feedback.png)
+
+## Other information
+
+The Task Manager contains some other helpful information, such as:
+
+- Link to the published version of the English project (if available) - click on the project's name to access the hyperlink.
+- Project's category - this is most likely going to be Python, Scratch or Web development.
+- Priority - please prioritise projects that are marked as HIGH priority.
+- Deadline - this indicates when we need the translation to be ready.
+
