@@ -16,7 +16,7 @@ If you’re a translator and have added your name to the Task Manager, you can s
 
 ![screenshot](images/Task_Manager_translation_status.png)
 
-We recommend you begin with translating the initial project code in [Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md)/[Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md). You can find a link to your chosen project's Trinket/Scratch in the **EN Trinket/Scratch** link in Task Manager:
+We recommend you begin with translating the initial project code in [Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md)/[Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md). You can find a link to your chosen project's Trinket/Scratch in the **EN Trinket/Scratch** column in Task Manager:
 
 ![screenshot](images/Task_Manager_trinket_link.png)
 
