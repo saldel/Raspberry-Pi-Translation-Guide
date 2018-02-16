@@ -25,3 +25,9 @@ CSS code **should not be translated**.
 ## JavaScript
 
 JavaScript code **should not be translated**.
+
+## About the tools
+
+Find out [how to translate HTML code in Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md)
+
+Find out [how to translate HTML instructions in the different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md)
