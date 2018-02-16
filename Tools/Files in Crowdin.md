@@ -1,6 +1,6 @@
 # Translating different types of files in Crowdin
 
-When you open a project in Crowdin (by clicking the relevant link in Task Manager) and choosing your language from those available, you will see the project folders and files:
+When you open a project in Crowdin (by clicking the relevant link in Task Manager) and choose your language from those available, you will see the project folders and files:
 
 ![screenshot](images/Crowdin_files.png)
 
