@@ -41,3 +41,7 @@ You will be required to use three tools:
 3. Crowdin: you will use it to translate project instructions (which consist of various types of files). Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md).
 
 Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools. 
+
+## Questions
+
+If you have any quesions or comments about the process, please contact our Translation Manager (nina@raspberrypi.org).
