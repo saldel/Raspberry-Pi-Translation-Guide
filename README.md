@@ -34,7 +34,7 @@ Most of the time, we will let you know which part of the process we want you to 
 
 You will be required to use three tools:
 
-1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Find out [how to use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
+1. [Task Manager](https://docs.google.com/spreadsheets/d/1vqu2VDPIA0C-UW6pMSsoS6UsUyzry7paspLV63hkqhs/edit?usp=sharing): you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Find out [how to use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
 2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Find out [how to translate code in Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md) and [how to translate code in online Scratch editor](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md).
 
