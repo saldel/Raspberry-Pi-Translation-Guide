@@ -22,6 +22,8 @@ This folder contains graphic files and videos/gifs that visualise the various st
 
 ![screenshot](images/Crowdin_image_edited.png)
 
+- Some projects use a Raspberry Pi which means you will need access to one to recreate the screenshot. We will leave you a note in the Comments column of the Task Manager so you know not to translate the project if you don't have access to a Raspberry Pi. 
+
 - When your translated images are ready, please upload them via Crowdin Editor to replace the English source file.
 
 - Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact Nina (nina@raspbrrypi.org). 
