@@ -28,8 +28,6 @@ To ensure high quality of translations, each project will typically go through t
 
 3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step. The link to the test version will be added to Task Manager (see **Where to start** below) once the translation and review have been done, and we uploaded the project to the website.
 
-Most of the time, we will let you know which part of the process we want you to contribute to. However, there will be urgent translations that need to be done quickly, in which case we will let you choose your role in the process. 
-
 ## Where to start
 
 To start translating, please follow these steps:
