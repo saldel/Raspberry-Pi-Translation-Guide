@@ -1,10 +1,6 @@
 # How to set up a Crowdin account
 
-To translate and review project instructions, you are going to use Crowdin.
-
-## I need to set up a Crowdin account
-
-You can do this in three easy steps:
+To translate and review project instructions, you are going to use Crowdin. You can set up an account in three easy steps:
 
 1. Go to [crowdin.com](https://crowdin.com/) and click **Sign Up**. You will be asked for an email address, username, and password. Please use the same email address that you use to contact us, and make sure your username consists of your first name and surname (e.g. name.surname, name_surname).
 
@@ -19,7 +15,3 @@ Click the icon in the top right-hand corner of the screen (see image below), and
 ![screenshot](images/Crowdin_account_settings2.png)
 
 3.	Go to your email inbox — you should have received a verification email from Crowdin (check your spam folder if you can’t see one). Follow the instructions in the email to verify your account.
-
-## I already have a Crowdin account
-
-If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings.
