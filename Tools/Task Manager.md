@@ -20,7 +20,7 @@ We recommend you begin with translating the initial project code in [Trinket](ht
 
 ![screenshot](images/Task_Manager_trinket_link.png)
 
-Once the initial code has been translated, you can start [translating project intstructions in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) (make sure you've set up your [Crowdin account](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) first). To open your chosen project’s instructions in Crowdin, click the **Link for Translation** in the Task Manager:
+Once the initial code has been translated, you can start [translating project intstructions in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) (make sure you've set up your [Crowdin account](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin%20account.md) first). To open your chosen project’s instructions in Crowdin, click the **Link for Translation** in the Task Manager:
 
 ![screenshot](images/Task_Manager_translation_link.png)
 
