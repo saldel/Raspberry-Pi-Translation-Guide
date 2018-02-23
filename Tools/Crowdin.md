@@ -101,13 +101,13 @@ If the progress bar is blue, it means the file has been pre-translared with mach
 
 + The English source text will be on the left (1) and its machine translation on the right (2).
 
-+ If you are happy with the machine translation, click + to approve it.
++ If you are happy with the machine translation, click + to approve it (2).
 
-+ If you need to change a translation, click the - to indicate that machine translation is wrong. Then, click on the translated text and make your changes. Click **Save**:
++ If you need to change a translation, click the - to indicate that machine translation is wrong (2). Then, click on the translated text (in 2) and make your changes. Click **Save**:
 
 ![screenshot](images/Crowdin_add_change.png)
 
-+ When you save a change, it will be added to the list of suggestions in the panel on the right. If you later decide that you need to change your own suggestion, please remember that it will be saved as a separate suggestion. If this happens, please delete your first suggestion by clicking the bin icon next to the old suggestion you no longer want to make:
++ When you save a change, it will be added to the list of suggestions in the panel on the right. If you later decide that you need to change your own suggestion, please remember that it will be saved as a separate suggestion. If this happens, please delete your first suggestion by clicking the bin icon next to the old suggestion you no longer want to make (in 3):
 
 ![screenshot](images/Crowdin_delete.png)
 
