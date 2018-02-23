@@ -41,11 +41,9 @@ You will see language icons in the form of flags:
 
 ![screenshot](images/Crowdin_progress.png)
 
-## Translating and post-editing files (for Translators)
+## Translating files (for Translators)
 
-To translate or post-edit a file, open it in **Translation Mode**:
-
-1. If the progress bar is empty, it means there are no translations. Click the three dots next to your chosen file’s progress bar and select **Translate**. 
+If the progress bar next to the file is empty, it means the file has not been translated yet. You will need to open th file in **Translation Mode** Click the three dots next to your chosen file’s progress bar and select **Translate**. 
 
 ![screenshot](images/Crowdin_open_translation_mode.png)
 
@@ -83,7 +81,17 @@ Hover over the word with your mouse to see the suggestion. It might be a tip on 
 
 + Clicking **Open Next** will open the next file in the folder, while clicking **Select Another File** will allow you to select a different file from the folder. To continue working on the current file, close the window by clicking on the X in its top right-hand corner.
 
-2. If the progress bar is blue, it means the file has been pre-translared with machine translation. If that's the case, click the three dots next to your chosen file’s progress bar and select **Open in Voting Mode**. 
++ When you're finished with translating, you can exit the Crowdin Editor by clicking the green icon in the top left-hand corner of the screen:
+
+![screenshot](images/Crowdin_back.png)
+
++ Some file types (e.g. .sb2) cannot be translated within the Crowdin Editor and therefore need to be downloaded. To download a file, click on its name as usual. You’ll be taken to the Crowdin Editor, and as you won’t be able to translate the file there, download it by clicking Download in the upper right-hand corner (see the image below). Then translate it on your computer, and upload it back to Crowdin.
+
+![screenshot](images/Crowdin_download.png)
+
+## Translating files: machine translation (for Translators)
+
+If the progress bar is blue, it means the file has been pre-translared with machine translation. If that's the case, click the three dots next to your chosen file’s progress bar and select **Open in Voting Mode**. 
 
 ![screenshot](images/Crowdin_translation_mode.png)
 
@@ -99,35 +107,27 @@ Hover over the word with your mouse to see the suggestion. It might be a tip on 
 
 + Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
 
-3. When you're finished with translating or post-editing machine translation, you can exit the Crowdin Editor by clicking the green icon in the top left-hand corner of the screen:
-
-![screenshot](images/Crowdin_back.png)
-
-4. Some file types (e.g. .sb2) cannot be translated within the Crowdin Editor and therefore need to be downloaded. To download a file, click on its name as usual. You’ll be taken to the Crowdin Editor, and as you won’t be able to translate the file there, download it by clicking Download in the upper right-hand corner (see the image below). Then translate it on your computer, and upload it back to Crowdin.
-
-![screenshot](images/Crowdin_download.png)
-
 ## Reviewing files (for Reviewers)
 
 Once the translation/post-editing of a file is finished, its progress bar will be blue:
 
 ![screenshot](images/Crowdin_progress_blue.png)
 
-1. You can review a file by opening it in Proofreading Mode: click on the three dots located to the right of the file’s progress bar, and select **Open in Proofreading Mode**.
++ You can review a file by opening it in Proofreading Mode: click on the three dots located to the right of the file’s progress bar, and select **Open in Proofreading Mode**.
 
 ![screenshot](images/Crowdin_proofreading.png)
 
-2. The file will open in the Crowdin Editor:
++ The file will open in the Crowdin Editor:
 
 ![screenshot](images/Crowdin_proofreading_mode.png)
 
-3. The panel on the right (3) shows the different translations that have been suggested for a sentence. This might include machine translation, which will have the Raspberry Pi logo.
++ The panel on the right (3) shows the different translations that have been suggested for a sentence. This might include machine translation, which will have the Raspberry Pi logo.
 
 + Please click the **tick** sign next to the translation that you prefer. If you think all of the suggestions are incorrect, please suggest your own translation by clicking on the current translation (2) and making changes.
 
-4. After approving/changing all translated segments of the file, you can exit Crowdin Editor by clicking the green icon in the top left-hand corner of the screen.
++ After approving/changing all translated segments of the file, you can exit Crowdin Editor by clicking the green icon in the top left-hand corner of the screen.
 
-5. Select another file for review until you have approved all translations in the project. You can track your progress using the review progress bars next to the files – look out for green colour (blue indicates translation progress). Hovering over the progress bar with your mouse will show you more details.
++ Select another file for review until you have approved all translations in the project. You can track your progress using the review progress bars next to the files – look out for green colour (blue indicates translation progress). Hovering over the progress bar with your mouse will show you more details.
 
 ![screenshot](images/Crowdin_progress_green.png)
 
