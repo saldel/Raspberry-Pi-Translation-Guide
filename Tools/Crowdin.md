@@ -43,7 +43,7 @@ You will see language icons in the form of flags:
 
 ## Translating and post-editing files (for Translators)
 
-To translate or post-edit a file, open it in **Translation Mode**: click the three dots next to your chosen file’s progress bar and select **Translate**.
+To translate or post-edit a file, open it in **Translation Mode**: click the three dots next to your chosen file’s progress bar and select **Translate**. You will know something has been pre-translated with machine translation because the progress bar will be blue.
 
 ![screenshot](images/Crowdin_translation_mode.png)
 
