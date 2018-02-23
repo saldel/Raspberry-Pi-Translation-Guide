@@ -34,7 +34,7 @@ Most of the time, we will let you know which part of the process we want you to 
 
 To start translating, please follow these steps:
 
-1. Set up an account in **Crowdin** - find out how to do it [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/Draft/Tools/Crowdin%20account.md). If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings.
+1. Set up an account in **Crowdin** - find out how to do it [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin%20account.md). If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings.
 
 2. Go to our **Task Manager** and choose the projects you want to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
