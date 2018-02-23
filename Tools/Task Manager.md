@@ -36,7 +36,7 @@ Before you start reviewing, please wait for the **Translation status** cell in T
 
 ## For testers
 
-Before you start testing, please wait for the **Review status** cell in Task Manager to be set to **Finished**. Once you’ve begun your test, set the **Testing status** cell to **In progress**, and then to **Finished** when appropriate.
+Before you start testing, please wait for the **Review status** cell in Task Manager to be set to **Finished** and wait for the link to the test version of the project to appear in the **Link for test** column. Once you’ve begun your test, set the **Testing status** cell to **In progress**, and then to **Finished** when appropriate.
 
 - In the **Link for test** column, we will provide a link to a test version of the project that we’ll have generated for you. Please go through the project step by step to make sure it works well and that there are no problems along the way.
 
