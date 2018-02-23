@@ -55,7 +55,7 @@ In the left-hand panel (1), you will see the English source text. The heading of
 
 1. Click on a segment to select it for translation. The selected segment will appear in the top middle panel (2), which is the translation area where you can add/edit the translation. 
 
-+ If you're post-editing machine translation and you think the translation is OK, please approve it by clicking the + sign. If you think the translation is incorrect, click the - sign and change the traslation to what you think it should be.
++ If you're post-editing machine translation and you think the translation is OK, please approve it by clicking the + sign in the bottom middle panel (3). If you think the translation is incorrect, click the - sign and change the traslation to what you think it should be.
 
 ![screenshot](images/Crowdin_voting_up.png)
 
@@ -105,17 +105,27 @@ Once the translation of a file is finished, its progress bar will be blue:
 
 ![screenshot](images/Crowdin_proofreading.png)
 
-2. The file will open in the Crowdin Editor. The English source text will be on the left (1) and its translation on the right (2).
+2. The file will open in the Crowdin Editor and it will look the same as **Translation Mode**:
 
-![screenshot](images/Crowdin_proofreading_editor.png)
+![screenshot](images/Crowdin_editor.png)
 
-3. If you are happy with a translated segment, click the tick icon to the left of the translated text to approve it. A red box will warn you if there are issues with the translation, for example if tags are missing or if the punctuation in the translation is different from the original. Please read any warnings carefully and act accordingly — if you have any questions, contact Nina at nina@raspberrypi.org. 
+3. The bottom middle panel (3) shows the different translations that have been suggested for a sentence. This might include machine translation, which will have the Raspberry Pi logo:
 
-4. If you need to change a translation, click on the translated text and make your changes.
+![screenshot](images/Crowdin_proofreading_mt.png)
 
-5. After approving all translated segments of the file, you can exit Crowdin Editor by clicking the green icon in the top left-hand corner of the screen.
++ If the translator agreed with the machine translation, the **0** will be replaced by **1** and there will be a green **tick** sign - it means the translator clicked the + sign to approve the machine translation.
 
-6. Select another file for review until you have approved all translations in the project. You can track your progress using the review progress bars next to the files – look out for green colour (blue indicates translation progress). Hovering over the progress bar with your mouse will show you more details.
+![screenshot](images/Crowdin_proofreading_mt3.png)
+
++ If the translator didn't agree with the machine translation, there will be another translation suggestion:
+
+![screenshot](images/Crowdin_proofreading_mt2.png)
+
++ Please click the + sign next to the translation that you prefer. If you think all of the suggestions are incorrect, please suggest your own translation in the top middle panel (2).
+
+4. After approving/changing all translated segments of the file, you can exit Crowdin Editor by clicking the green icon in the top left-hand corner of the screen.
+
+5. Select another file for review until you have approved all translations in the project. You can track your progress using the review progress bars next to the files – look out for green colour (blue indicates translation progress). Hovering over the progress bar with your mouse will show you more details.
 
 ![screenshot](images/Crowdin_progress_green.png)
 
