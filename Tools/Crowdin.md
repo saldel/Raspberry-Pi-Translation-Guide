@@ -1,40 +1,17 @@
 # How to use Crowdin
 
-To translate and review project instructions, you are going to use Crowdin.
+Once you have translated/reviewed the initial project code you can start translating/reviewing the project instructions in Crowdin.
 
-## I need to set up a Crowdin account
-
-You can do this in three easy steps:
-
-1. Go to [crowdin.com](https://crowdin.com/) and click **Sign Up**. You will be asked for an email address, username, and password. Please use the same email address that you use to contact us, and make sure your username consists of your first name and surname (e.g. name.surname, name_surname).
-
-![screenshot](images/Crowdin_account_setup.png)
-
-2. After clicking **CREATE ACCOUNT**, you will be taken to this screen:
-
-![screenshot](images/Crowdin_account_settings.png)
-
-Click the icon in the top right-hand corner of the screen (see image below), and choose **Settings** to go to your account settings. Add your full name, and from **My Languages**, select only your native language(s) (if English is your native language, please select your most fluent foreign languages).
-
-![screenshot](images/Crowdin_account_settings2.png)
-
-3.	Go to your email inbox — you should have received a verification email from Crowdin (check your spam folder if you can’t see one). Follow the instructions in the email to verify your account.
-
-## I already have a Crowdin account
-
-If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings.
-
-## Using Crowdin to help us with our projects
-
-Once you have your account set up and verified, you can start translating and/or reviewing:
-
-1. When you click the **Link for Translation** or **Link for Review** in the Task Manager, you will be  taken to the project’s Crowdin page:
+1. Click the **Link for Translation** or **Link for Review** in the Task Manager and you will be taken to the project’s Crowdin page:
 
 ![screenshot](images/Crowdin_project_page.png)
 
 You will see language icons in the form of flags:
+
  - If your language is listed under **Needs Translation**, the project needs to be translated from scratch. You can open it in Translation Mode (see below).
+ 
  - If your language is listed under **Translated, but needs to be Voted**, the project has been pre-translated using Google Translate and needs to be post-edited. You can open it in Translation Mode (see below).
+ 
  - If your language is listed under **Translated, but needs to be Validated**, the translation for this project is complete and needs to be reviewed. You can open it in Proofreading Mode (see below).
  
 2. Click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating (we explain how to approach translating the different types of files [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) - please **read this carefully**). Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
