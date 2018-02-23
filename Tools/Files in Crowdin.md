@@ -1,5 +1,7 @@
 # Translating different types of files in Crowdin
 
+Before continuing, please make sure you know how to open Crowdin in the correct mode and how to add translations (or approve/change machine translation) and how to review translations - if you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md).
+
 When you open a project in Crowdin (by clicking the relevant link in Task Manager) and choose your language from those available, you will see the project folders and files:
 
 ![screenshot](images/Crowdin_files.png)
