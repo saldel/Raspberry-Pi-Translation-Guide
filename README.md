@@ -22,25 +22,27 @@ Majority of resources consist of the textual and visual instructions displayed o
 
 To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
 
-1. Translation: a volunteer translator either translates a text from scratch, or edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code. This is done through Crowdin (see **About the tools** below).
+1. Translation: a volunteer translator either translates a text from scratch, or edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code. This is done through Crowdin (see **Where to start** below).
 
-2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing. This is done through Crowdin (see **About the tools** below).
+2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing. This is done through Crowdin (see **Where to start** below).
 
-3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step. The link to the test version will be added to Task Manager (see **About the tools** below) once the translation and review have been done, and we uploaded the project to the website.
+3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step. The link to the test version will be added to Task Manager (see **Where to start** below) once the translation and review have been done, and we uploaded the project to the website.
 
 Most of the time, we will let you know which part of the process we want you to contribute to. However, there will be urgent translations that need to be done quickly, in which case we will let you choose your role in the process. 
 
-## About the tools
+## Where to start
 
-You will be required to use three tools:
+To start translating, please follow these steps:
 
-1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Find out [how to access and use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
+1. Set up an account in **Crowdin** - find out how to do it [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/Draft/Tools/Crowdin%20account.md). If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings.
 
-2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Find out [how to translate code in Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md) and [how to translate code in online Scratch editor](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md).
+2. Go to our **Task Manager** and choose the projects you want to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
-3. Crowdin: you will use it to translate project instructions (which consist of various types of files). Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md).
+3. Translate the initial project code - find out [how to do it for Python and Web development projects](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md) and [how to do it for Scratch projects](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md).
 
-Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools. 
+4. Translate the project instructions in Crowdin. Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md)
+
+Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
 
 ## Questions
 
