@@ -53,7 +53,13 @@ You will be taken to Crowdin Editor:
 
 In the left-hand panel (1), you will see the English source text. The heading of the section to be translated is highlighted in yellow (here it is ‘Introduction’), and the segments of the text that are not yet translated are highlighted in red.
 
-1. Click on a segment to select it for translation. The selected segment will appear in the top middle panel (2), which is the translation area where you can type in the translated version of the text. Please remember to follow the instructions we sent you on how to deal with certain elements of the projects (e.g. code, untranslatable segments).
+1. Click on a segment to select it for translation. The selected segment will appear in the top middle panel (2), which is the translation area where you can add/edit the translation. 
+
++ If you're post-editing machine translation and you think the translation is OK, please approve it by clicking the + sign. If you think the translation is incorrect, click the - sign and change the traslation to what you think it should be.
+
+![screenshot](images/Crowdin_glossary.png)
+
++ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, etc., so please remember to follow our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/README.md).
 
 2. Some words in the translation area might be underlined with a dotted line, which means that there is a glossary entry for that word:
 
