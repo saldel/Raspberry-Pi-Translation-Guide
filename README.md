@@ -42,7 +42,7 @@ To start translating, please follow these steps:
 
 4. Translate the project instructions in Crowdin. Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md)
 
-Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools. 
+Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
 
 ## Questions
 
