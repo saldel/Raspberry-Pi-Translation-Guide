@@ -103,7 +103,9 @@ If the progress bar is blue, it means the file has been pre-translared with mach
 
 + If you are happy with the machine translation, click the tick icon to the right of the translated text to approve it. A red box will warn you if there are issues with the translation, for example if tags are missing or if the punctuation in the translation is different from the original. Please read any warnings carefully and act accordingly — if you have any questions, contact Nina at nina@raspberrypi.org. 
 
-+ If you need to change a translation, click on the translated text and make your changes. If you save a change but need to change it further, the additional changes will be saved as separate suggestions - please make sure you delete the first suggestion that you no longer want to make.
++ If you need to change a translation, click on the translated text and make your changes. When you save a change, it will be added to the list of suggestions in the panel on the right. If you later decide that you need to change your own suggestion, please remember that it will be saved as a separate suggestion. If this happens, please delete your first suggestion by clicking the bin icon next to the old suggestion you no longer want to make:
+
+![screenshot](images/Crowdin_delete.png)
 
 + Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
 
