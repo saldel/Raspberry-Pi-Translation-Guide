@@ -93,7 +93,7 @@ Hover over the word with your mouse to see the suggestion. It might be a tip on 
 
 + The English source text will be on the left (1) and its machine translation on the right (2).
 
-+ If you are happy with the machine translation, click the tick icon to the left of the translated text to approve it. A red box will warn you if there are issues with the translation, for example if tags are missing or if the punctuation in the translation is different from the original. Please read any warnings carefully and act accordingly — if you have any questions, contact Nina at nina@raspberrypi.org. 
++ If you are happy with the machine translation, click the tick icon to the right of the translated text to approve it. A red box will warn you if there are issues with the translation, for example if tags are missing or if the punctuation in the translation is different from the original. Please read any warnings carefully and act accordingly — if you have any questions, contact Nina at nina@raspberrypi.org. 
 
 + If you need to change a translation, click on the translated text and make your changes. If you save a change but need to change it further, the additional changes will be saved as separate suggestions - please make sure you delete the first suggestion that you no longer want to make.
 
