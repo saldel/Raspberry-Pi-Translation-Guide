@@ -36,9 +36,11 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_glossary.png)
 
-Hover over the word with your mouse to see the suggestion. It might be a tip on how to translate the word, or a reminder for you that the word should not be translated:
++ Hover over the word with your mouse to see the suggestion. It might be a tip on how to translate the word, or a reminder for you that the word should not be translated:
 
 ![screenshot](images/Crowdin_glossary2.png)
+
++ Remember that you will be dealing with various types of files (e.g. .yml or .md), each of which needs to be addressed differently - please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) to know what to do.
 
 + When you’re happy with your translation, click **Save**. As soon as you translate and save a segment, its colour in the left-hand panel will change to green:
 
