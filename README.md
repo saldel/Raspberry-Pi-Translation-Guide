@@ -26,7 +26,7 @@ To ensure high quality of translations, each project will typically go through t
 
 2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing. This is done through Crowdin (see **About the tools** below).
 
-3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step.
+3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step. The link to the test version will be added to Task Manager (see **About the tools** below) once the translation and review have been done, and we uploaded the project to the website.
 
 Most of the time, we will let you know which part of the process we want you to contribute to. However, there will be urgent translations that need to be done quickly, in which case we will let you choose your role in the process. 
 
