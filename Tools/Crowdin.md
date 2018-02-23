@@ -57,7 +57,7 @@ In the left-hand panel (1), you will see the English source text. The heading of
 
 + If you're post-editing machine translation and you think the translation is OK, please approve it by clicking the + sign. If you think the translation is incorrect, click the - sign and change the traslation to what you think it should be.
 
-![screenshot](images/Crowdin_glossary.png)
+![screenshot](images/Crowdin_voting_up.png)
 
 + Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, etc., so please remember to follow our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/README.md).
 
