@@ -47,7 +47,7 @@ To translate or post-edit a file, open it in **Translation Mode**:
 
 1. If the progress bar is empty, it means there are no translations. Click the three dots next to your chosen file’s progress bar and select **Translate**. 
 
-![screenshot](images/Crowdin_translation_mode.png)
+![screenshot](images/Crowdin_open_translation_mode.png)
 
 + You will be taken to Crowdin Editor
 
