@@ -30,15 +30,17 @@ To ensure high quality of translations, each project will typically go through t
 
 Most of the time, we will let you know which part of the process we want you to contribute to. However, there will be urgent translations that need to be done quickly, in which case we will let you choose your role in the process. 
 
-## About the tools
+## Where to start
 
-You will be required to use three tools:
+To start translating, please follow these steps:
 
-1. Task Manager: you will use this to let us know you will help; it enables us to keep track of the projects you’re working on and what progress you’re making. Find out [how to access and use the Task Manager](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
+1. Set up an account in Crowdin. Find out how to do it here. 
 
-2. Trinket/Scratch: you will use this to translate the initial project code, if a project contains any. It will also be helpful for re-creating some screenshots that need to be translated. Find out [how to translate code in Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md) and [how to translate code in online Scratch editor](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md).
+2. Go to our **Task Manager** and choose the projects you want to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
-3. Crowdin: you will use it to translate project instructions (which consist of various types of files). Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md).
+3. Translate the initial project code in Trinket/Scratch. Find out [how to translate code in Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md) and [how to translate code in online Scratch editor](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md).
+
+4. Translate the project instructions in Crowdin. Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md)
 
 Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools. 
 
