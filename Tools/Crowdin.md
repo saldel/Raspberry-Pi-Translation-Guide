@@ -59,7 +59,7 @@ In the left-hand panel (1), you will see the English source text. The heading of
 
 ![screenshot](images/Crowdin_voting_up.png)
 
-+ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, etc., so please remember to follow our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/README.md).
++ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, etc., so please remember to follow our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md).
 
 2. Some words in the translation area might be underlined with a dotted line, which means that there is a glossary entry for that word:
 
