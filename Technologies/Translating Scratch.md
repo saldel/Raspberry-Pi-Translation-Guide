@@ -14,11 +14,4 @@ Please note that if your language isn’t supported, please leave the code in En
 
 When translating Scratch syntax in the markdown files, please use [this Scratch translator](http://scratchblocks.github.io/translator/). This is what Scratch syntax looks like:
 
-'''blocks
-		when I start as a clone
-		forever
-			if < touching [Pico walking v]? > then
-				broadcast [hit v]
-			end
-		end
-'''
+![screenshot](images/scratch-syntax.png)
