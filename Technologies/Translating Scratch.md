@@ -11,3 +11,14 @@ Changing the language will automatically translate the user interface and Scratc
 ![screenshot](images/Scratch_translatable_elements.png)
 
 Please note that if your language isn’t supported, please leave the code in English but translate the abovementioned elements.
+
+When translating Scratch syntax in the markdown files, please use [this Scratch translator](http://scratchblocks.github.io/translator/). This is what Scratch syntax looks like:
+
+'''blocks
+		when I start as a clone
+		forever
+			if < touching [Pico walking v]? > then
+				broadcast [hit v]
+			end
+		end
+'''
