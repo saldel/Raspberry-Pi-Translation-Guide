@@ -63,8 +63,11 @@ Please **do not translate** the following segments:
 - interests
 - technologies
 - site_areas
+- software
+- version
+- laste_tested
 
-The name of the segment is displayed in the translation aread, under **context**:
+The name of the segment is displayed in the translation area, under **context**:
 
 ![screenshot](images/Crowdin_files_yml.png)
 
