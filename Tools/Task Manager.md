@@ -4,7 +4,7 @@ If you are available to help us with a project, go to [Task Manager](https://doc
 
 ![screenshot](images/Task_Manager_language_selection.png)
 
-Then type in your name in the spreadsheet cell labelled with the task that you have taken on: **Translation**, **Review**, or **Testing**.
+Then type in your name in the spreadsheet cell labelled with the task that you have taken on: **Translation**, **Review**, or **Testing**. Please do not add your name under more than one step for the same project - we want different volunteers to perform the translation, review and testing of a project.
 
 ![screenshot](images/Task_Manager_adding_name.png)
 
@@ -24,7 +24,11 @@ Once the initial code has been translated, you can start [translating project in
 
 ![screenshot](images/Task_Manager_translation_link.png)
 
-The project instructions will frequently mention the code in Trinket/Scratch so please make sure you use consistent transations.
+Note: If you access Crowdin via the **Link for Translation** you will be assigned the role of **translator** permanently and won't be able to proofread a project even if you use the **Link for Review** (see below). If for some reason you need to access the project you translated in a proofreading mode, you will need to leave the project (see screenshot below) and join again via the **Link for Review**.
+
+!![screenshot](images/crowdin-leave-project.png)
+
+The project instructions will frequently mention the code in Trinket/Scratch so please make sure you use consistent translations.
 
 ## For reviewers
 
