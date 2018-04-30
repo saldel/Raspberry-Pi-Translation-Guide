@@ -1,6 +1,6 @@
 # Translating Python
 
-Python is a popular object-oriented programming language, often used for web and app development. Generally, Python code **should not be translated** with the exception of **variable names**, **strings** and **comments**.
+Python is a popular object-oriented programming language, often used for web and app development. Generally, Python code **should not be translated** with the exception of **identifiers** (i.e. names given to **variables**, **functions**, **classes**), **strings**, and **comments**.
 
 ## Strings
 
@@ -18,7 +18,7 @@ String is a sequence of characters, created with single quotes, double quotes or
  
 ## Variables
 
-Variables are used to store information and to access it. Programmer chooses names of variables so they **should be translated** to make them more meaningful to learners.
+Variables are used to store information and to access it. Programmer chooses names of variables so they **should be translated** to make them more meaningful to learners. 
 
 - For example, we can create a variable called **_name_** and assign it the value **_Larry_**. We can then ask Python to print the variable **_name_** and it will display **_Larry_** (on the right hand side):
  
@@ -32,12 +32,36 @@ Variables are used to store information and to access it. Programmer chooses nam
  
  ![screenshot](images/Python_pl_loc_variable.png)
  
-   - However, please remember that the value of a variable could be a **Python function**, in which case it **should not be translated**. For example:
+   - However, please remember that the value of a variable could be a **built-in Python function** (see below for more on built-in functions), in which case it **should not be translated**. For example:
  
  ![screenshot](images/Python_non_localizable_variable.png)
  
+Please remember that Python is case-sensitive. This means that `variable` and `Variable` are not the same.
+ 
+## Functions
+
+Functions are defined by users; they perform the defined task when they are called. Names of functions **should be translated** to make them more meaningful to learners. 
+
+- For example, we can create a function that displays a personalised greeting. When we call the function and specify a name (e.g. **_Paul_**), Python will display the message:
+
+ ![screenshot](images/python-function-english.png)
+ 
+ - The function name in the above screenshot (`greet`), as well as the parameter `name` and the strings `Hello` and `Good morning!`, **should be translated** (but please remember not to use any of your language’s special characters). The built-in function `print` and the keyword `def` (see below for more on keywords) **should not be translated**. This is what a translated function looks like:
+ 
+  ![screenshot](images/python-function-translated.png)
+
+Please remember that Python is case-sensitive. This means that `function` and `Function` are not the same.
+
 ## Comments
 
 Comments are used by programmes to give more details about a given line of code; they are marked with the # sign. These **should be translated**.
 
 ![screenshot](images/Python_comments.png)
+
+## Do not translate
+
+Python has a number of **built-in functions** that are always available for use, as opposed to functions that have to be defined by the user. While names of functions defined by the user can be translated, the built-in functions **should not be translated**. You can find a full list of built-in functions [here](https://www.programiz.com/python-programming/methods/built-in). 
+
+Python also has some **keywords** that are reserved for defining the syntax and structure of the Python language. The keywords **should not be translated**:
+
+![screenshot](images/python-keywords.png)
