@@ -32,12 +32,10 @@ Variables are used to store information and to access it. Programmer chooses nam
  
  ![screenshot](images/Python_pl_loc_variable.png)
  
-   - However, please remember that the value of a variable could be a **built-in Python function**, in which case it **should not be translated**. For example:
+   - However, please remember that the value of a variable could be a **built-in Python function** (see below for more on built-in functions), in which case it **should not be translated**. For example:
  
  ![screenshot](images/Python_non_localizable_variable.png)
  
-You can find a list of buil-in functions [here](https://www.programiz.com/python-programming/methods/built-in).
-
 Please remember that Python is case-sensitive. This means that `variable` and `Variable` are not the same.
  
 ## Functions
@@ -62,7 +60,9 @@ Comments are used by programmes to give more details about a given line of code;
 
 ## Do not translate
 
-It is crucial that you do not translate the following Python keywords:
+Python has a number of **built-in functions** that are always available for use, as opposed to functions that have to be defined by the user. While names of functions defined by the user can be translated, the built-in functions **should not be translated**. You can find a full list of built-in functions [here](https://www.programiz.com/python-programming/methods/built-in). 
+
+Python also has some **keywords** that are reserved for defining the syntax and structure of the Python language. The keywords **should not be translated**:
 
 - False
 - class
