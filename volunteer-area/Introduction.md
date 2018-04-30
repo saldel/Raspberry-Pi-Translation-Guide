@@ -1,7 +1,7 @@
 
 ## Welcome to Raspberry Pi translation community!
 
-Thank you for joining us in our efforts to reach people all over the world and enable them to learn about digital making in their own language.
+Thank you for joining us and helping us enable people around the world to learn about digital making in their own language.
 
 This page contains various resources that will help you make the most of our process and will hopefully make your experience with us a great one. 
 
@@ -9,7 +9,7 @@ This page contains various resources that will help you make the most of our pro
 
 To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
 
-1. Post-editing: a volunteerr either translates a text from scratch, or edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code.
+1. Post-editing: a volunteerr edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code.
 
 2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing.
 
