@@ -42,7 +42,7 @@ Please remember that Python is case-sensitive. This means that `variable` and `V
  
 ## Functions
 
-Functions are defined by users and perform the defined task when they are called. Names of functions **should be translated** to make them more meaningful to learners. 
+Functions are defined by users; they perform the defined task when they are called. Names of functions **should be translated** to make them more meaningful to learners. 
 
 - For example, we can create a function that displays a personalised greeting. When we call the function and specify a name (e.g. **_Paul_**), Python will display the message:
 
