@@ -64,15 +64,11 @@ Comments are used by programmes to give more details about a given line of code;
 
 It is crucial that you do not translate the following Python keywords:
 
-False
-
-class
-
-finally 
-
-is 
-
-return 
+-False
+-class
+-finally 
+-is 
+-return 
 None 
 continue 
 for 
