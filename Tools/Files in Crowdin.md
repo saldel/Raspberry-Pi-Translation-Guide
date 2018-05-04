@@ -13,6 +13,29 @@ The main folder is called **master** and it contains a folder called **en** wher
 
 Below, we explain how to approach translating these different files.
 
+## Project code
+
+We recommend that you begin with translating the files in the **Resources** folder, which contain the project code. This is because you can then use this code to translate screenshots (see **graphic files**) and you can make sure that the project instructions refer to the translated code (see **markdown files**). This way, everything will be consistent and there will be no confusion for the learners. 
+
+### Python files
+
+There are three options for translating Python (.py) files:
+
+- You can open them in Crowdin Editor and translate there.
+- You can download the Python file to your computer and translate it offline. You will have to save the file under the same name as the English source and then upload it back to Crowdin Editor when you're done.
+- You can copy the code into an empty Trinket and translate it there. You will then need
+
+Python (.py) files can be opened in Crowdin Editor and translated there. 
+Please make sure that you run the code to check that it works.
+
+### Scratch files (.sb2)
+
+Please make sure that you run the code to check that it works.
+
+### HTML, CSS & JavaScript
+
+Please make sure that you run the code to check that it works.
+
 ## Graphic files
 
 This folder contains graphic files and videos/gifs that visualise the various steps in the project instructions. Graphic files should be translated whenever they contain text. 
