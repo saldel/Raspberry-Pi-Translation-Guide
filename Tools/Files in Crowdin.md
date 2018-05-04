@@ -4,13 +4,20 @@ When you open a project in Crowdin (by clicking the relevant link in Task Manage
 
 ![screenshot](images/Crowdin_files.png)
 
-The main folder is called **master** and it contains a folder called **en** where you'll find all of the project folders and files that need translating. Below, we explain what to do with the **images folder**, the **resources folder**, the **yml file** and the **markdown files**.
+The main folder is called **master** and it contains a folder called **en** where you'll find all of the project folders and files that need translating:
 
-## images folder
+- **Images** folder contains graphic files and videos/gifs that visualise the various steps in the project instructions. Graphic files should be translated whenever they contain text. 
+- **Resources** folder contains files with the project's initial code (if any) that learners begin with, as well as the finished project file. The files are made available for those who cannot complete the projects online so they have to be translated. 
+- **yml file** - add description of what yml file does.
+- **markdown (.md) files** contain the textual instructions for learners that are displayed on the website. They **should be translated**.
+
+Below, we explain how to approach translating these different files.
+
+## Graphic files
 
 This folder contains graphic files and videos/gifs that visualise the various steps in the project instructions. Graphic files should be translated whenever they contain text. 
 
-- For Python and Web Development projects, graphic files will mostly include screenshots of Trinket so please use your translated Trinket. The Trinket only contains initial code (or no code at all) so you will have to recreate some of the steps - please follow the project instructions.
+- Most of the time, images will show the project code or the results of the code being executed:
 
 ![screenshot](images/Crowdin_image_html.png)
 
@@ -28,7 +35,11 @@ This folder contains graphic files and videos/gifs that visualise the various st
 
 - Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact Nina (nina@raspbrrypi.org). 
 
-## resources folder
+## GIFs
+
+xxx
+
+## Python files
 
 This folder contains all the resources (including an example of a finished project) that an educator might need to teach the project offline. Python files (.py), Scratch files (.sb2), HTML files (.html) and graphic files that contain text **should be translated**. All other files should be ignored.
 
@@ -39,6 +50,14 @@ This folder contains all the resources (including an example of a finished proje
 - HTML files can be opened and translated via Crowdin Editor, which conveniently hides all HTML tags so you'll only see the displayable content. Please make sure you translate it in line with your translated Trinket. 
 
 - Any graphic files should be treated in the same way as those in the **images** folder.
+
+## Scratch files
+
+## HTML files
+
+## CSS files
+
+## JavaScript files
 
 ## yml file
 
@@ -66,7 +85,7 @@ The name of the segment is displayed in the translation aread, under **context**
 
 ![screenshot](images/Crowdin_files_yml.png)
 
-## .md files
+## Markdown (.md) files
 
 These files contain the textual instructions for learners that are displayed on the website and **should be translated**. They will often refer to the different programming languages that the resources teach so please make sure your translations of these references are in line with your translation of the project code in Trinket/Scratch page, in the finished project files from the resources folder, and the screenshots.
 
