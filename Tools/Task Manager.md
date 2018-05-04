@@ -16,11 +16,7 @@ If you’re a translator and have added your name to the Task Manager, you can s
 
 ![screenshot](images/Task_Manager_translation_status.png)
 
-We recommend you begin with translating the initial project code in [Trinket](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Trinket.md)/[Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Scratch.md). You can find a link to your chosen project's Trinket/Scratch in the **EN Trinket/Scratch** column in Task Manager:
-
-![screenshot](images/Task_Manager_trinket_link.png)
-
-Once the initial code has been translated, you can start [translating project intstructions in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) (make sure you've set up your [Crowdin account](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) first). To open your chosen project’s instructions in Crowdin, click the **Link for Translation** in the Task Manager:
+To open your chosen project in Crowdin, click the **Link for Translation** in the Task Manager:
 
 ![screenshot](images/Task_Manager_translation_link.png)
 
@@ -28,15 +24,11 @@ Note: If you access Crowdin via the **Link for Translation** you will be assigne
 
 !![screenshot](images/crowdin-leave-project.png)
 
-The project instructions will frequently mention the code in Trinket/Scratch so please make sure you use consistent translations.
-
 ## For reviewers
 
 Before you start reviewing, please wait for the **Translation status** cell in Task Manager to be set to **Finished**. Once you’ve begun your review, set the **Review status** cell to **In progress**, and to **Finished** when appropriate.
 
-- To review the translation of the **initial project code** in Trinket/Scratch, please use the **Translated Trinket/Scratch** link in Task Manager. If you make any changes, please make sure you update the translated link in the Task Manager.
-
-- To review the translation of the project instructions, please use the **Link for review** (as above).
+To review the translation of the project, please use the **Link for review** (as above).
 
 ## For testers
 
