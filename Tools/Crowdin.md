@@ -1,8 +1,6 @@
 # How to use Crowdin
 
-Once you have translated/reviewed the initial project code you can start translating/reviewing the project instructions in Crowdin.
-
-1. Click the **Link for Translation** or **Link for Review** in the Task Manager and you will be taken to the project’s Crowdin page:
+After clicking the **Link for Translation** or **Link for Review** in the Task Manager, you will be taken to the project’s Crowdin page:
 
 ![screenshot](images/Crowdin_project_page.png)
 
@@ -14,7 +12,7 @@ You will see language icons in the form of flags:
  
  - If your language is listed under **Translated, but needs to be Validated**, the translation for this project is complete and needs to be reviewed. You can open it in Proofreading Mode (see below).
  
-2. Click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating (we explain how to approach translating the different types of files [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) - please **read this carefully**). Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
+Click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating (we explain how to approach translating the different types of files [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) - please **read this carefully**). Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
 
 ![screenshot](images/Crowdin_progress.png)
 
