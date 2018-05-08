@@ -1,45 +1,58 @@
 # Welcome to Raspberry Pi translation community! 
 
-The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world. 
+Thank you for joining us and helping us make our curriculum of materials accessible to young people around the world.
 
-In order to make our content available globally, we need translations of it in various languages. Professional translation on this scale is expensive, and is therefore unsustainable for a small non-profit organisation such as ours. This is why we need your support — as a translation volunteer, you will make it possible for us to reach millions of children all over the world and help them learn essential digital skills. Thank you for helping us out!
+This page contains various resources that will help you make the most of our process and will hopefully make your experience with us a great one.
 
-If you have not been in touch with us before, please fill in [this form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform) before translating any of our projects. 
+If you have not done this before, please fill in [this form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform) before translating any of our projects. 
 
-## About our resources
+### About translation
 
-Most of the time, we will be translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/) so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises. 
+To ensure high quality, each translation task will typically go through three stages (unless we tell you otherwise):
 
-Many of our learning resources focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If you’re not familiar with these programming languages, please read the following guidelines which explain what they are and how you should approach them in translation:
+1. Post-editing: a volunteerr edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code.
 
--	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
-- [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
-- [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
+2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing.
 
-## About the proccess
+3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose.
 
-To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
+### What you'll translate
 
-1. Translation: a volunteer translator either translates a text from scratch, or edits a text that was pre-translated using machine translation software. We’ll provide you with a checklist of things to bear in mind while you translate, together with some guidelines for dealing with elements such as images or code. This is done through Crowdin (see **Where to start** below).
+Most of the time, we will be translating our learning resources available on the [Raspberry Pi projects](https://projects.raspberrypi.org) website so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises.
 
-2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. We’ll provide you with a list of things to look out for while reviewing. This is done through Crowdin (see **Where to start** below).
+Many of our learning resources focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. Please watch or read the following tutorials to understand how code should be translated:
 
-3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step. The link to the test version will be added to Task Manager (see **Where to start** below) once the translation and review have been done, and we uploaded the project to the website.
+*	[Translating Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
+* [Translating Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
+* [Translating HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
 
-Most of the time, we will let you know which part of the process we want you to contribute to. However, there will be urgent translations that need to be done quickly, in which case we will let you choose your role in the process. 
+### How you'll translate
 
-## Where to start
+We use a translation platform called [Crowdin](https://crowdin.com/). It is free to use and is quite simple. Please watch or read the following tutorials to understand how to use Crowdin:
 
-To start translating, please follow these steps:
+* How to use Crowdin - see written instructions or video tutorial
+* Post-editing in Crowdin - see written instructions or video tutorial
+* Reviewing in Crowdin - see written instructions or video tutorial
 
-1. Set up an account in **Crowdin** - find out how to do it [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/Draft/Tools/Crowdin%20account.md). If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings.
+### What else you'll need
 
-2. Go to our **Task Manager** and choose the projects you want to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
+Apart from Crowdin, we also use few other tools to help us manage the translation of projects into lots of languages (Jira), and to communicate with each other (Slack). Please watch or read the following tutorials to understand how we use these tools:
 
-3. Translate the project instructions in Crowdin. Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md) and [how to translate different types of files in Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md)
+* Raspberry Pi Translation Workspace on Slack
+* Raspberry Pi Translation Task Manager in Jira
 
-Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
+### Where to start
 
-## Questions
+To start translating, you will need to set up a Crowdin account and join our Slack workspace and Jira task manager. Once that's done, you can start your first task:
+
+1. Go to the Task Manager and choose a task to post-edit or review. 
+
+2. Go to Crowdin and begin with translating the project code - see the tutorials below for help.
+
+3. When code is translated, you can translate the YML file, the markdown files, the graphic files and GIFs - see the tutorials below for help.
+
+You can also watch or read **Pi Translation in three easy steps** and **X top tips for Pi Translators**
+
+### Questions
 
 If you have any quesions or comments about the process, please contact our Translation Manager (nina@raspberrypi.org).
