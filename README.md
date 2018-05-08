@@ -30,13 +30,13 @@ Many of our learning resources focus on teaching programming with Scratch, Pytho
 
 We use a translation platform called [Crowdin](https://crowdin.com/). It is free to use and is quite simple. Please watch or read the following tutorials to understand how to use Crowdin:
 
-* How to use Crowdin (read or watch)
-* Post-editing in Crowdin (read or watch)
-* Reviewing in Crowdin (read or watch)
+* How to use Crowdin ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md#how-to-use-crowdin) or watch)
+* Post-editing in Crowdin ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md#translating-files-machine-translation-for-translators) or watch)
+* Reviewing in Crowdin ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md#reviewing-files-for-reviewers) or watch)
 
 ### What else you'll need
 
-Apart from Crowdin, we also use few other tools to help us manage the translation of projects into lots of languages (Jira), and to communicate with each other (Slack). Please watch or read the following tutorials to understand how we use these tools:
+Apart from Crowdin, we also use few other tools to help us manage the different translations tasks (Jira), and to communicate with each other (Slack). Please watch or read the following tutorials to understand how we use these tools:
 
 * Pi Translation Workspace on Slack (read or watch)
 * Pi Translation Task Manager in Jira (read or watch)
@@ -45,11 +45,11 @@ Apart from Crowdin, we also use few other tools to help us manage the translatio
 
 To start translating, you will need to set up a Crowdin account and join our Slack workspace and Jira task manager. Once that's done, you can start your first task:
 
-1. Go to the Task Manager and choose a task to post-edit, review or test. 
+1. Go to the Task Manager and choose a task to post-edit, review or test - see the tutorial. 
 
-2. Go to Crowdin and begin with translating the project code - see the tutorials below for help.
+2. Go to Crowdin and begin with translating the project code - see the tutorial.
 
-3. When code is translated, you can translate the YML file, the markdown files, the graphic files and GIFs - see the tutorials below for help.
+3. When code is translated, you can translate the YML file, the markdown files, the graphic files and GIFs - see the tutorial.
 
 You can also watch or read **Pi Translation in three easy steps** and **X top tips for Pi Translators**
 
