@@ -30,22 +30,22 @@ Many of our learning resources focus on teaching programming with Scratch, Pytho
 
 We use a translation platform called [Crowdin](https://crowdin.com/). It is free to use and is quite simple. Please watch or read the following tutorials to understand how to use Crowdin:
 
-* How to use Crowdin - see written instructions or video tutorial
-* Post-editing in Crowdin - see written instructions or video tutorial
-* Reviewing in Crowdin - see written instructions or video tutorial
+* How to use Crowdin (read or watch)
+* Post-editing in Crowdin (read or watch)
+* Reviewing in Crowdin (read or watch)
 
 ### What else you'll need
 
 Apart from Crowdin, we also use few other tools to help us manage the translation of projects into lots of languages (Jira), and to communicate with each other (Slack). Please watch or read the following tutorials to understand how we use these tools:
 
-* Raspberry Pi Translation Workspace on Slack
-* Raspberry Pi Translation Task Manager in Jira
+* Pi Translation Workspace on Slack (read or watch)
+* Pi Translation Task Manager in Jira (read or watch)
 
 ### Where to start
 
 To start translating, you will need to set up a Crowdin account and join our Slack workspace and Jira task manager. Once that's done, you can start your first task:
 
-1. Go to the Task Manager and choose a task to post-edit or review. 
+1. Go to the Task Manager and choose a task to post-edit, review or test. 
 
 2. Go to Crowdin and begin with translating the project code - see the tutorials below for help.
 
