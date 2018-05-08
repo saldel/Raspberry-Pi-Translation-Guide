@@ -16,8 +16,6 @@ Many of our learning resources focus on teaching programming with Scratch, Pytho
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
 - [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
 
-Majority of resources consist of the textual and visual instructions displayed on the [project’s web page](https://projects.raspberrypi.org/en/projects/rock-band), and an online [Trinket](https://trinket.io/embed/python/33e5c3b81b#.WoV106jFI2w)/[Scratch](https://scratch.mit.edu/projects/editor/) page that learners use to write and run their code according to the project instructions. Please note that some Trinkets/Scratch pages may be empty while others may already contain some initial code for learners to build on. We need to translate both the project instructions and the initial code. Please carefully read the next two sections (and all the files they link to) to find out how we want you to do it. 
-
 ## About the proccess
 
 To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
