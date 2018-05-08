@@ -4,7 +4,7 @@ Thank you for joining us and helping us make our curriculum of materials accessi
 
 This page contains various resources that will help you make the most of our process and will hopefully make your experience with us a great one.
 
-If you have not done this before, please fill in [this form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform) before translating any of our projects. 
+If you have not done it yet, please fill in [this form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform) before translating any of our projects. 
 
 ### About translation
 
