@@ -48,9 +48,9 @@ To start translating, you will need to set up a Crowdin account and join our Sla
 
 1. Go to the Task Manager and choose a task to post-edit, review or test. 
 
-2. Go to Crowdin and begin with translating the project code (read or watch a tutorial).
+2. If post-editing or reviewing, please use the relevant link and go to Crowdin. Begin with the project code (read or watch a tutorial). If testing, please use the **Link for Testing** and begin working through the translated project. Use [this](https://docs.google.com/forms/d/e/1FAIpQLSd1136TVh8zdM7u8k3U1a6XXCq0H-yrhYp-YbvP36pLiun6Bg/viewform) form to give us your testing feedback.
 
-3. When code is translated, you can translate the `yml` file, the `md` files, the `png` files and `gif` files (read or watch a tutorial).
+3. When code is translated/reviewed, you can translate/review the `yml` file, the `md` files, the `png` files and `gif` files (read or watch a tutorial).
 
 You can also watch or read our tutorial **Pi Translation in three easy steps**.
 
