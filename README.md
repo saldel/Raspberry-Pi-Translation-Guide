@@ -30,7 +30,7 @@ Many of our learning resources focus on teaching programming with Scratch, Pytho
 
 We use a translation platform called [Crowdin](https://crowdin.com/). It is free to use and is quite simple. Please watch or read the following tutorials to understand how to use Crowdin:
 
-* How to set up a Crowdin account ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin%20account.md) or watch). If you already have a Crowdin account, please make sure it states your name and surname so that we know who you are. 
+* How to set up a Crowdin account ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin%20account.md) or watch). If you already have a Crowdin account, please make sure it mentions your full name so that we know who you are. 
 * How to use Crowdin ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md#how-to-use-crowdin) or watch)
 * Post-editing machine translation ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md#translating-files-machine-translation-for-translators) or watch)
 * Reviewing translations completed by others ([read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md#reviewing-files-for-reviewers) or watch)
