@@ -37,7 +37,7 @@ We use a translation platform called [Crowdin](https://crowdin.com/). It is free
 
 ### What else you'll need
 
-Apart from Crowdin, we also use few other tools to help us manage the different translations tasks (Google Sheets), and to communicate with each other (Slack). Please watch or read the following tutorials to understand how we use these tools:
+Apart from Crowdin, we also use two other tools to help us manage the different translations tasks (Google Sheets), and to communicate with each other (Slack). Please watch or read the following tutorials to understand how we use these tools:
 
 * Pi Translation Workspace on Slack (read or watch)
 * Pi Translation Task Manager in Google Sheets - [read](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md) or [watch]().
