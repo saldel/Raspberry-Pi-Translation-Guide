@@ -16,7 +16,9 @@ You should begin with translating the finished project code:
 
 - Python files (`*.py`) can be opened and translated via Crowdin Editor. Please make sure you follow our guidelines for [translating Python code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md).
 
-- Scratch files (`*.sb2`) need to be downloaded via Crowdin Editor and either translated offline if you have the offline Scratch Editor installed or uploaded to the online Scratch Editor and translated there. Please make sure you follow our guidelines for [translating Scratch code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md).
+- Scratch files (`*.sb2`) need to be downloaded via Crowdin Editor and either translated offline if you have the offline Scratch Editor installed or uploaded to the online Scratch Editor and translated there. Please make sure you follow our guidelines for [translating Scratch code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md). This is how you can download a file via Crowdin Editor:
+
+![screenshot](images/Crowdin-download.png)
 
 - HTML files (`*.html`) can be opened and translated via Crowdin Editor, which conveniently hides all HTML tags so you'll only see the displayable content.
 
