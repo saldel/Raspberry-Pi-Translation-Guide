@@ -4,7 +4,7 @@ If your volunteers are ready to translate, go to Task Manager (you should have r
 
 ![screenshot](images/Task_Manager_language_selection.png)
 
-Then type in the **name of the volunteer** *AND* **your organisation's name** in the spreadsheet cell labelled with the task that you have taken on: **Translation**, **Review**, or **Testing**. This will mke it possible for us to verify your volunteers' contributions in Crowdin. For quality control purposes, we will delete any Crowdin contributions that we cannot identify because the contributor's and organisation's names are not listed in the Task Manager.
+Then type in the **name of the volunteer** *AND* **your organisation's name** in the spreadsheet cell labelled with the task that you have taken on: **Translation**, **Review**, or **Testing**. This will enable us to verify your volunteers' contributions in Crowdin. For quality control purposes, we will delete any Crowdin contributions that we cannot identify because the contributor's and organisation's names are not listed in the Task Manager.
 
 Please do not add the same name under more than one step for the same project - we want different volunteers to perform the translation, review and testing of a project.
 
