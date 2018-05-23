@@ -36,6 +36,8 @@ To start translating, please follow these steps:
 
 4. Once a project has been post-edited, provide your review volunteers with the **Link for Review** (available through the Task Manager) and ask them to begin the reivew. They should veryfiy every file in the project (with the exceptions of those we marked as **Do not translate**). 
 
+When the project is reviewed, we will upload a test version and will provide you with links so that volunteers can test the projects. 
+
 Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
 
 ## Questions
