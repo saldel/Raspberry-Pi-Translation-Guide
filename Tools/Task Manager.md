@@ -18,7 +18,7 @@ Volunteers doing post-editing of machine translation should be provided with **L
 
 Note: Once a volunteer uses the **Link for Translation** they will be assigned the role of **translator** permanently and won't be able to review a project even if they use the **Link for Review** (see below). If for some reason they need to change they role to **reviewer**, they will need to leave the project (see screenshot below) and join again via the **Link for Review**.
 
-!![screenshot](images/crowdin-leave-project.png)
+![screenshot](images/crowdin-leave-project.png)
 
 ## For reviewers
 
