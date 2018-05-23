@@ -1,8 +1,8 @@
 # Translating different types of files in Crowdin
 
-Before continuing, please make sure you know how to open Crowdin in the correct mode and how to add translations (or approve/change machine translation) and how to review translations - if you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md).
+Before continuing, please make sure you know how to open Crowdin in the correct mode and how to add translations (or approve/change machine translation) and how to review translations - if you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Crowdin.md).
 
-When you open a project in Crowdin (by clicking the relevant link in Task Manager) and choose your language from those available, you will see the project folders and files:
+When you open a project in Crowdin (by clicking the link given to you by your coordinator) and choose your language from those available, you will see the project folders and files:
 
 ![screenshot](images/Crowdin_files.png)
 
@@ -28,7 +28,7 @@ You should begin with translating the finished project code:
 
 This folder contains graphic files and videos/gifs that visualise the various steps in the project instructions. Graphic files should be translated whenever they contain text.
 
-- In Python and Web Development projects, graphic files will mostly include screenshots of the project code and of the program/webpage created as part of the project. Our projects use Trinket to write and run the code so you will also need to use Trinket to recreate the screenshots in your language. Click [here for an empty Python Trinket](https://trinket.io/python/b9a0534ee7) that you can use, and [here for an empty HTML Trinket](https://trinket.io/html/552244ece0). To recreate the screenshots, please download the finished project code (`*.py` or `*.html`) that you already translated via Crowdin Editor. Copy the code from the file and paste it into the empty Trinket. Use the translated code to take the screenshots as needed. 
+- In Python and Web Development projects, graphic files will mostly include screenshots of the project code and of the program/webpage created as part of the project. Our projects use Trinket to write and run the code so you will also need to use Trinket to recreate the screenshots in your language. Click [here for an empty Python Trinket](https://trinket.io/python/b9a0534ee7) that you can use, and [here for an empty HTML Trinket](https://trinket.io/html/552244ece0). To recreate the screenshots, please download the finished project code (`*.py` or `*.html`) that you already translated via Crowdin Editor. Copy the code from the file and paste it into the empty Trinket. Use the translated code to take the screenshots as needed. Please note that for the HTML code to work, you will also need to download the relevant CSS and JavaScript files - get in touch with us if you're in doubt.
 
 - In Scratch projects, graphic files will mostly include screenshots of Scratch Editor. You can use the finished project code (`*.sb2`) you translated earlier. 
 
