@@ -10,7 +10,7 @@ The main folder is called **master** and it contains a folder called **en** wher
 
 ## resources folder
 
-This folder contains all the resources (including the finished project code) that an educator might need to teach the project offline. Python files (.py), Scratch files (.sb2), HTML files (.html) and graphic files that contain text **should be translated**. All other files should be ignored.
+Please begin translating the project with this folder - it contains all the resources (including the finished project code) that an educator might need to teach the project offline. Python files (.py), Scratch files (.sb2), HTML files (.html) and graphic files that contain text **should be translated**. All other files should be ignored.
 
 You should begin with translating the finished project code:
 
