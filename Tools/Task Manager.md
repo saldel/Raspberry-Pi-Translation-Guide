@@ -20,6 +20,8 @@ To open your chosen project in Crowdin, click the **Link for Translation** in th
 
 ![screenshot](images/Task_Manager_translation_link.png)
 
+Follow the steps in [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) to translate the files in Crowdin.
+
 Note: If you access Crowdin via the **Link for Translation** you will be assigned the role of **translator** permanently and won't be able to proofread a project even if you use the **Link for Review** (see below). If for some reason you need to access the project you translated in a proofreading mode, you will need to leave the project (see screenshot below) and join again via the **Link for Review**.
 
 ![screenshot](images/crowdin-leave-project.png)
@@ -28,7 +30,7 @@ Note: If you access Crowdin via the **Link for Translation** you will be assigne
 
 Before you start reviewing, please wait for the **Translation status** cell in Task Manager to be set to **Finished**. Once you’ve begun your review, set the **Review status** cell to **In progress**, and to **Finished** when appropriate.
 
-To review the translation of the project, please use the **Link for review** (as above).
+To review the translation of the project, please use the **Link for review** (as above). Follow the steps in [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) to review the files in Crowdin.
 
 ## For testers
 
