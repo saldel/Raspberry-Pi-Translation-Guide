@@ -1,6 +1,6 @@
 # How to use Crowdin
 
-1. Click the **Link for Translation** or **Link for Review** provided to you by your coordinator and you will be taken to the project’s Crowdin page:
+Click the **Link for Translation** or **Link for Review** provided to you by your coordinator and you will be taken to the project’s Crowdin page:
 
 ![screenshot](images/Crowdin_project_page.png)
 
