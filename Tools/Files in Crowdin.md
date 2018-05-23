@@ -16,7 +16,7 @@ You should begin with translating the finished project code:
 
 - Python files (`*.py`) can be opened and translated via Crowdin Editor. Please make sure you follow our guidelines for [translating Python code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md).
 
-- Scratch files (`*.sb2`) need to be downloaded via Crowdin Editor and either translated offline if you have the offline Scratch Editor installed or uploaded to the online Scratch Editor and translated there. Please make sure you follow our guidelines for [translating Scratch code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md). This is how you can download a file via Crowdin Editor:
+- Scratch files (`*.sb2`) need to be downloaded via Crowdin Editor and either translated offline if you have the offline Scratch Editor installed or uploaded to the online Scratch Editor and translated there. Please make sure you follow our guidelines for [translating Scratch code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md). This is how you can download a file from Crowdin:
 
 ![screenshot](images/Crowdin-download.png)
 
@@ -38,7 +38,9 @@ This folder contains graphic files and videos/gifs that visualise the various st
 
 - Some projects use a Raspberry Pi which means you will need access to one to recreate the screenshot. We will leave you a note in the Comments column of the Task Manager so you know not to translate the project if you don't have access to a Raspberry Pi. 
 
-- When your translated images are ready, please upload them via Crowdin Editor to replace the English source file.
+- When your translated images are ready, please upload them via Crowdin Editor to replace the English source file. This is how you can upload a graphic file via Crowdin Editor:
+
+![screenshot](images/Crowdin_download.png)
 
 - Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact Nina (nina@raspbrrypi.org). 
 
