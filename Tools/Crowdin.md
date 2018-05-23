@@ -1,20 +1,10 @@
 # How to use Crowdin
 
-Once you have translated/reviewed the initial project code you can start translating/reviewing the project instructions in Crowdin.
-
-1. Click the **Link for Translation** or **Link for Review** in the Task Manager and you will be taken to the project’s Crowdin page:
+1. Click the **Link for Translation** or **Link for Review** provided to you by your coordinator and you will be taken to the project’s Crowdin page:
 
 ![screenshot](images/Crowdin_project_page.png)
 
-You will see language icons in the form of flags:
-
- - If your language is listed under **Needs Translation**, the project needs to be translated from scratch. You can open it in Translation Mode (see below).
- 
- - If your language is listed under **Translated, but needs to be Voted**, the project has been pre-translated using Google Translate and needs to be post-edited. You can open it in Translation Mode (see below).
- 
- - If your language is listed under **Translated, but needs to be Validated**, the translation for this project is complete and needs to be reviewed. You can open it in Proofreading Mode (see below).
- 
-2. Click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating (we explain how to approach translating the different types of files [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) - please **read this carefully**). Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
+You will see language icons in the form of flags. Click the icon for your language, and you will be taken to a screen looking like the image below. Here you’ll find all the files within the project that need translating (we explain how to approach translating the different types of files [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Files%20in%20Crowdin.md) - please **read this carefully**). Note the progress bars on the right, which indicate the progress of translation (blue) or review (green).
 
 ![screenshot](images/Crowdin_progress.png)
 
@@ -68,7 +58,7 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_download.png)
 
-## Translating files: machine translation (for Translators)
+## Post-editing files: machine translation (for Translators)
 
 If the progress bar is blue, it means the file has been pre-translared with machine translation. If that's the case, click the three dots next to your chosen file’s progress bar and select **Open in Voting Mode**. 
 
@@ -90,7 +80,7 @@ If the progress bar is blue, it means the file has been pre-translared with mach
 
 ![screenshot](images/Crowdin_delete.png)
 
-+ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
++ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
 
 ## Reviewing files (for Reviewers)
 
