@@ -22,7 +22,7 @@ To open your chosen project in Crowdin, click the **Link for Translation** in th
 
 Note: If you access Crowdin via the **Link for Translation** you will be assigned the role of **translator** permanently and won't be able to proofread a project even if you use the **Link for Review** (see below). If for some reason you need to access the project you translated in a proofreading mode, you will need to leave the project (see screenshot below) and join again via the **Link for Review**.
 
-!![screenshot](images/crowdin-leave-project.png)
+![screenshot](images/crowdin-leave-project.png)
 
 ## For reviewers
 
