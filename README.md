@@ -20,7 +20,7 @@ To start translating, please follow these steps:
 
 + Please add the **Translator's name** in the corret cell in the spreadsheet. This will enable us to verify your translators' contributions in Crowdin. For quality control purposes, we will delete any Crowdin contributions that we cannot identify because the contributor's name is not listed in the spreadsheet.
 
-3. Provide your translators with the Crowdin link from the spreadsheet. Translators can begin translating or post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-v2/Tools/Files%20in%20Crowdin.md).
+3. Provide your translators with the Crowdin link from the spreadsheet. Translators can begin translating or post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-professionals/Tools/Files%20in%20Crowdin.md).
 
 * Please make sure you set the **Translation status** cell to **In progress** to let us know that the translator has begun the task.
 
