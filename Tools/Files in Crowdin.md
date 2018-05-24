@@ -105,4 +105,4 @@ When translating segments with markdown content in curly brackets, please make s
 
 ## Questions and problems
 
-If you have any questions or problems when translating the different types of files, you can post a question on Crowdin, email your fellow translators, or get in touch with Nina (nina@raspberrypi.org).
+If you have any questions or problems when translating the different types of files, please speak to your coordinator.
