@@ -1,10 +1,6 @@
-# Welcome to Raspberry Pi translation community! 
+# Translating for the Raspberry Pi Foundation 
 
 The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world. 
-
-In order to make our content available globally, we need translations of it in various languages. Professional translation on this scale is expensive, and is therefore unsustainable for a small non-profit organisation such as ours. This is why we need your support — as a an organisation that would like to commit some of its employees' time to translating our projects, you will make it possible for us to reach millions of children all over the world and help them learn essential digital skills. Thank you for helping us out!
-
-## About our projects
 
 Most of the time, we will be translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/) so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises. 
 
