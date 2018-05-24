@@ -8,7 +8,7 @@ You will see language icons in the form of flags. Click the icon for your langua
 
 ![screenshot](images/Crowdin_progress.png)
 
-## Translating files (for Translators)
+## Translating files
 
 If the progress bar next to the file is empty, it means the file has not been translated yet. You will need to open th file in **Translation Mode** Click the three dots next to your chosen file’s progress bar and select **Translate**. 
 
@@ -58,7 +58,7 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_download.png)
 
-## Post-editing files: machine translation (for Translators)
+## Post-editing files: machine translation
 
 If the progress bar is blue, it means the file has been pre-translared with machine translation. If that's the case, click the three dots next to your chosen file’s progress bar and select **Open in Voting Mode**. 
 
@@ -81,30 +81,6 @@ If the progress bar is blue, it means the file has been pre-translared with mach
 ![screenshot](images/Crowdin_delete.png)
 
 + Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
-
-## Reviewing files (for Reviewers)
-
-Once the translation/post-editing of a file is finished, its progress bar will be blue:
-
-![screenshot](images/Crowdin_progress_blue.png)
-
-+ You can review a file by opening it in Proofreading Mode: click on the three dots located to the right of the file’s progress bar, and select **Open in Proofreading Mode**.
-
-![screenshot](images/Crowdin_proofreading.png)
-
-+ The file will open in the Crowdin Editor:
-
-![screenshot](images/Crowdin_proofreading_mode.png)
-
-+ The panel on the right (3) shows the different translations that have been suggested for a sentence. This might include machine translation, which will have the Raspberry Pi logo.
-
-+ Please click the **tick** sign next to the translation that you prefer. If you think all of the suggestions are incorrect, please suggest your own translation by clicking on the current translation (2) and making changes.
-
-+ After approving/changing all translated segments of the file, you can exit Crowdin Editor by clicking the green icon in the top left-hand corner of the screen.
-
-+ Select another file for review until you have approved all translations in the project. You can track your progress using the review progress bars next to the files – look out for green colour (blue indicates translation progress). Hovering over the progress bar with your mouse will show you more details.
-
-![screenshot](images/Crowdin_progress_green.png)
 
 For more information on using Crowdin Editor, please see: 
 https://support.crowdin.com/online-editor/
