@@ -1,12 +1,14 @@
 # Translating different types of files in Crowdin
 
-Before continuing, please make sure you know how to open Crowdin in the correct mode and how to add translations (or approve/change machine translation) and how to review translations - if you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Crowdin.md).
+Before continuing, please make sure you know how to open Crowdin in the correct mode, depending on whether you're translating or post-editing. If you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Crowdin.md).
 
 When you open a project in Crowdin (by clicking the link given to you by your coordinator) and choose your language from those available, you will see the project folders and files:
 
 ![screenshot](images/Crowdin_files.png)
 
 The main folder is called **master** and it contains a folder called **en** where you'll find all of the project folders and files that need translating. Below, we explain what to do with the **images folder**, the **resources folder**, the **yml file** and the **markdown files**.
+
+**Please note that some translators will not translate the resources and images folders, only the `meta.yml` file and the `step*.md` files. Please speak to your coordinator.**
 
 ## resources folder
 
