@@ -20,11 +20,11 @@ To start translating, please follow these steps:
 
 * Make sure you add the **translator's name** *AND* the **name of your organisation** in the corret cell in the **Translation** column. This will enable us to verify your translators' contributions in Crowdin. For quality control purposes, we will delete any Crowdin contributions that we cannot identify because the contributor's and organisation's names are not listed in the Task Manager.
 
-![screenshot](tools/images/Task_manager_adding_name.png)
+![screenshot](Tools/images/Task_manager_adding_name.png)
 
 3. Provide your translators with the **Link for Translation** (available through the Task Manager):
 
-![screenshot](tools/images/Task_manager_translation_link.png)
+![screenshot](Tools/images/Task_manager_translation_link.png)
 
 * Translators can now begin translating or post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-v2/Tools/Files%20in%20Crowdin.md).
 
