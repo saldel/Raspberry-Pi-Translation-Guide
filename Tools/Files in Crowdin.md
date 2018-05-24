@@ -8,7 +8,7 @@ When you open a project in Crowdin (by clicking the link given to you by your co
 
 The main folder is called **master** and it contains a folder called **en** where you'll find all of the project folders and files that need translating. Below, we explain what to do with the **images folder**, the **resources folder**, the **yml file** and the **markdown files**.
 
-**Please note that some translators will not translate the resources and images folders, only the `meta.yml` file and the `step*.md` files. Please speak to your coordinator.**
+**Please note that some translators will not translate the resources and images folders, only the `meta.yml` file and the `step*.md` files. Please speak to your coordinator to make sure you are translating the correct files.**
 
 ## resources folder
 
