@@ -2,9 +2,7 @@
 
 The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world. 
 
-Most of the time, we will be translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/) so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises. 
-
-Many of our projects focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If translators are not familiar with these programming languages, please ask them to read the following guidelines which explain what they are and how they should be approached in translation:
+We are working to translate our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/). Many of the projects focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If translators are not familiar with these programming languages, please ask them to read the following guidelines which explain what they are and how they should be approached in translation:
 
 -	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
@@ -20,7 +18,7 @@ To start translating, please follow these steps:
 
 + Please add the **Translator's name** in the corret cell in the spreadsheet. This will enable us to verify your translators' contributions in Crowdin. For quality control purposes, we will delete any Crowdin contributions that we cannot identify because the contributor's name is not listed in the spreadsheet.
 
-3. Provide your translators with the Crowdin link from the spreadsheet. Translators can begin translating or post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-professionals/Tools/Files%20in%20Crowdin.md).
+3. Provide your translators with the Crowdin links from the spreadsheet. Translators can begin translating or post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-professionals/Tools/Files%20in%20Crowdin.md).
 
 * Please make sure you set the **Translation status** cell to **In progress** to let us know that the translator has begun the task.
 
