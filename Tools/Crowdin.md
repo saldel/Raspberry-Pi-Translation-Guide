@@ -18,9 +18,9 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_editor.png)
 
-+ In the left-hand panel (1), you will see the English source text. The heading of the section to be translated is highlighted in yellow (here it is ‘Introduction’), and the segments of the text that are not yet translated are highlighted in red.
++ In the left-hand panel (1), you will see the English source text. The segments of the text that are not yet translated are highlighted in red.
 
-+ Click on a segment to select it for translation. The selected segment will appear in the top middle panel (2), which is the translation area where you can add/edit the translation. 
++ Click on a segment to select it for translation (its colour will change to yellow). The selected segment will appear in the top middle panel (2), which is the translation area where you can add/edit the translation. 
 
 + Some words in the translation area might be underlined with a dotted line, which means that there is a glossary entry for that word:
 
