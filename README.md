@@ -2,13 +2,11 @@
 
 The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world. 
 
-In order to make our content available globally, we need translations of it in various languages. Professional translation on this scale is expensive, and is therefore unsustainable for a small non-profit organisation such as ours. This is why we need your support — as a an organisation that would like to commit some of its employees' time to translating our projects, you will make it possible for us to reach millions of children all over the world and help them learn essential digital skills. Thank you for helping us out!
+In order to make our content available globally, we need translations of it in various languages. Professional translation on this scale is expensive, and is therefore unsustainable for a small non-profit organisation such as ours. This is why we need your support — as a national partner, you can help us reach millions of children all over the world and help them learn essential digital skills.
 
 ## About our projects
 
-Most of the time, we will be translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/) so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises. 
-
-Many of our projects focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If your volunteers are not familiar with these programming languages, please ask them to read the following guidelines which explain what they are and how they should approach them in translation:
+As you know, our projects mainly focus on Scratch, Python, HTML/CSS and JavaScript. If your volunteers are not familiar with these programming languages, please ask them to read the following guidelines which explain what they are and how they should approach them in translation:
 
 -	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
@@ -34,9 +32,9 @@ To start translating, please follow these steps:
 
 3. Provide your translation volunteers with the **Link for Translation** (available through the Task Manager) and ask them to begin post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-v2/Tools/Files%20in%20Crowdin.md).
 
-4. Once a project has been post-edited, provide your review volunteers with the **Link for Review** (available through the Task Manager) and ask them to begin the reivew. They should veryfiy every file in the project (with the exceptions of those we marked as **Do not translate**). 
+4. Once a project has been post-edited, provide your review volunteers with the **Link for Review** (available through the Task Manager) and ask them to begin the reivew. They should verify every file in the project (with the exceptions of those we marked as **Do not translate**). 
 
-When the project is reviewed, we will upload a test version and will provide you with links so that volunteers can test the projects. 
+When the project is reviewed, we will upload a test version and will add links to the Task Manager so that volunteers can test the projects. 
 
 Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
 
