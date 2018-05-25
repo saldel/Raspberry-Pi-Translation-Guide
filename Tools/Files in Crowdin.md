@@ -12,7 +12,9 @@ The main folder is called **master** and it contains a folder called **en** wher
 
 ## resources folder
 
-Please begin translating the project with this folder - it contains all the resources (including the finished project code) that an educator might need to teach the project offline. Python files (.py), Scratch files (.sb2), HTML files (.html) and graphic files that contain text **should be translated**. All other files should be ignored.
+Please begin translating the project with this folder, unless your coordinator told you not to translate them. 
+
+The folder contains all the resources (including the finished project code) that an educator might need to teach the project offline. Python files (.py), Scratch files (.sb2), HTML files (.html) and graphic files that contain text **should be translated**. All other files should be ignored.
 
 You should begin with translating the finished project code:
 
@@ -22,13 +24,13 @@ You should begin with translating the finished project code:
 
 ![screenshot](images/Crowdin-download.png)
 
-- HTML files (`*.html`) can be opened and translated via Crowdin Editor, which conveniently hides all HTML tags so you'll only see the displayable content.
+- HTML files (`*.html`) can be opened and translated via Crowdin Editor, which conveniently hides all HTML tags so you'll only see the displayable content. Please make sure you follow our guidelines for [translating Scratch code](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md).
 
 - Any graphic files should be treated in the same way as those in the **images** folder (see below).
 
 ## images folder
 
-This folder contains graphic files and videos/gifs that visualise the various steps in the project instructions. Graphic files should be translated whenever they contain text.
+This folder contains graphic files and videos/gifs that visualise the various steps in the project instructions. Graphic files should be translated whenever they contain text, unless your coordinator told you not to translate them.  
 
 - In Python and Web Development projects, graphic files will mostly include screenshots of the project code and of the program/webpage created as part of the project. Our projects use Trinket to write and run the code so you will also need to use Trinket to recreate the screenshots in your language. Click [here for an empty Python Trinket](https://trinket.io/python/b9a0534ee7) that you can use, and [here for an empty HTML Trinket](https://trinket.io/html/552244ece0). To recreate the screenshots, please download the finished project code (`*.py` or `*.html`) that you already translated via Crowdin Editor. Copy the code from the file and paste it into the empty Trinket. Use the translated code to take the screenshots as needed. Please note that for the HTML code to work, you will also need to download the relevant CSS and JavaScript files - get in touch with us if you're in doubt.
 
@@ -44,7 +46,7 @@ This folder contains graphic files and videos/gifs that visualise the various st
 
 ![screenshot](images/Crowdin_download.png)
 
-- Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact Nina (nina@raspbrrypi.org). 
+- Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact your coordinator. 
 
 ## yml file
 
