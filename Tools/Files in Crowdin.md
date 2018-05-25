@@ -1,6 +1,6 @@
 # Translating different types of files in Crowdin
 
-Before continuing, please make sure you know how to open Crowdin in the correct mode, depending on whether you're translating or post-editing. If you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-professionals/Tools/Crowdin.md).
+Before continuing, please make sure you know how to use Crowdin and how to open files in the correct mode, depending on whether you're translating or post-editing. If you don't know how to do it, please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-professionals/Tools/Crowdin.md).
 
 When you open a project in Crowdin (by clicking the link given to you by your coordinator) and choose your language from those available, you will see the project folders and files:
 
