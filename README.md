@@ -2,7 +2,7 @@
 
 The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world. 
 
-We are working to translate our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/). Many of the projects focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If translators are not familiar with these programming languages, please ask them to read the following guidelines which explain what they are and how they should be approached in translation:
+You will be working on translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/). Many of the projects focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If translators are not familiar with these programming languages, please ask them to read the following guidelines which explain what they are and how they should be approached in translation:
 
 -	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
