@@ -30,7 +30,7 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_glossary2.png)
 
-+ Remember that you will be dealing with various types of files (e.g. .yml or .md), each of which needs to be addressed differently - please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) to know what to do.
++ Remember that you will be dealing with various types of files (e.g. .yml or .md), each of which needs to be addressed differently - please read [this document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-professionals/Tools/Files%20in%20Crowdin.md) to know what to do.
 
 + When you’re happy with your translation, click **Save**. As soon as you translate and save a segment, its colour in the left-hand panel will change to green:
 
@@ -80,7 +80,7 @@ If the progress bar is blue, it means the file has been pre-translared with mach
 
 ![screenshot](images/Crowdin_delete.png)
 
-+ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-v2/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
++ Sometimes, machine translation will translate things that should be left in English, such as code, tags, brand names, and so on - you will need to change those back to English. Our [instructions](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-professionals/Tools/Files%20in%20Crowdin.md) explain how to deal with translating different types of files and how to approach code, tags, etc.
 
 For more information on using Crowdin Editor, please see: 
 https://support.crowdin.com/online-editor/
