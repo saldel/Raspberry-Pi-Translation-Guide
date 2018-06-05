@@ -30,7 +30,7 @@ To start translating, please follow these steps:
 
 2. Go to our **Task Manager**, select the volunteers' language(s) from the tabs, and choose the projects you want your volunteers to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-partners/Tools/Task%20Manager.md).
 
-3. Provide your translation volunteers with the **Link for Translation** (available through the Task Manager) and ask them to begin post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/edit/master-partners/Tools/Files%20in%20Crowdin.md).
+3. Provide your translation volunteers with the **Link for Translation** (available through the Task Manager) and ask them to begin post-editing machine translation - [this document explains how to do this step by step](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master-partners/Tools/Files%20in%20Crowdin.md).
 
 4. Once a project has been post-edited, provide your review volunteers with the **Link for Review** (available through the Task Manager) and ask them to begin the reivew. They should verify every file in the project (with the exceptions of those we marked as **Do not translate**). 
 
