@@ -42,7 +42,7 @@ This folder contains graphic files and videos/gifs that visualise the various st
 
 ![screenshot](images/Crowdin_download.png)
 
-- Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact Nina (nina@raspbrrypi.org). 
+- Please translate all GIFs and videos. 
 
 ## yml file
 
