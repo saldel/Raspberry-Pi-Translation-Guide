@@ -44,7 +44,7 @@ To recreate the screenshots, please download the finished project code (`*.py` o
 
 ![screenshot](images/Crowdin_download.png)
 
-- Ideally, GIFs and videos would also be translated but this involves significant amount of work so we don’t expect you to do it. If you decide to translate them but don't know how, please contact Nina (nina@raspbrrypi.org). 
+- Please also recreate GIFs and videos. 
 
 ## yml file
 
