@@ -16,7 +16,7 @@ Many of our learning resources focus on teaching programming with Scratch, Pytho
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
 - [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
 
-## About the proccess
+## About the process
 
 To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
 
