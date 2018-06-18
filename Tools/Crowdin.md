@@ -58,7 +58,7 @@ If the progress bar next to the file is empty, it means the file has not been tr
 
 ![screenshot](images/Crowdin_download.png)
 
-## Translating files: machine translation (for Translators)
+## Post-editing files: machine translation (for Translators)
 
 If the progress bar is blue, it means the file has been pre-translared with machine translation. If that's the case, click the three dots next to your chosen file’s progress bar and select **Open in Voting Mode**. 
 
