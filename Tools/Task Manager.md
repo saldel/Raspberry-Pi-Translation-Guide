@@ -10,6 +10,8 @@ Then type in your name in the spreadsheet cell labelled with the task that you h
 
 We make tasks available on a first come, first served basis, so if the relevant cell already contains a name, it means that someone else has taken on the project. In such a case, please do not replace their name with yours.
 
+Please note that the **Deadline** column may contain a date by which we need the task translated and reviewed. If you cannot translate/review a task by that date, please do not add your name to it. If there is no deadline added, we would like the task to be completed within 30 days from the day you assign your name to it - if you decide to take on such a task, please fill the **Deadline** column with the appropriate date. 
+
 ## For translators
 
 If you’re a translator and have added your name to the Task Manager, you can start translating straight away. When you start translating, please set the **Translation status** cell to **In progress** (see below) to let us know that you’ve begun the task. Once you’ve finished, please set the cell to **Finished** to let the reviewer know that they can start their job.
@@ -49,5 +51,4 @@ The Task Manager contains some other helpful information, such as:
 - Link to the published version of the English project (if available) - click on the project's name to access the hyperlink.
 - Project's category - this is most likely going to be Python, Scratch or Web development.
 - Priority - please prioritise projects that are marked as HIGH priority.
-- Deadline - this indicates when we need the translation to be ready.
 
