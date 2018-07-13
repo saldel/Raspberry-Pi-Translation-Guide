@@ -34,7 +34,7 @@ To start translating, please follow these steps:
 
 2. Go to our **Task Manager**, select your language from the tabs, and choose the projects you want to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
-3. Using the correct link from the Task Manager, go to Crowdin to start working on your chosen project. [This document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explains how to do it step-by-step. Please finish your task within 30 days and use [this checklist](Tools/images/Chechlist.pdf) at the end of each task. 
+3. Using the correct link from the Task Manager, go to Crowdin to start working on your chosen project. [This document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explains how to do it step-by-step. Please finish your task within 30 days and use [this checklist](Tools/images/Checklist.pdf) at the end of each task. 
 
 Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
 
