@@ -95,9 +95,7 @@ Markdown files also contain a number of elements that **should not be translated
 
 When translating segments with markdown content in curly brackets, please make sure you add the curly brackets in the correct place and that you do not add a space between the opening curly bracket and the word that it follows.
 
-- Please **do not translate** names of graphic files or URLs: 
-
-![screenshot](images/Crowdin_files_md4.png)
+- Please **do not translate** names of graphic files or URLs.
 
 - Markdown files contain **tags** that are used to format the text (e.g. to make it bold, underline it, italicize it), to add a hyperlink, to mark a given line of text as code, and so on. Crowdin replaces these tags with these symbols: `<0> </0>`. If you see these symbols in the source segment, please make sure you include them in your translation in the correct place (and please do not change their order): 
 
