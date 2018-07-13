@@ -87,7 +87,7 @@ Markdown files also contain a number of elements that **should not be translated
 
 - The words **_title_** or **_image_** in the contexts shown below are also part of markdown content. Please **do not translate** them:
 
-![screenshot](images/Crowdin_files_md2.png)
+![screenshot](images/Crowdin_files_md2.2.png)
 
 - Please **do not translate** the markdown content in **curly brackets** {}, like here: 
 
