@@ -95,7 +95,7 @@ Markdown files also contain a number of elements that **should not be translated
 
 When translating segments with markdown content in curly brackets, please make sure you add the curly brackets in the correct place and that you do not add a space between the opening curly bracket and the word that it follows.
 
-- Some segments, such as **names of graphic files** or **URLs**, will be marked as **Hidden Strings**. Please **do not translate** them. 
+- Please **do not translate** names of graphic files or URLs: 
 
 ![screenshot](images/Crowdin_files_md4.png)
 
