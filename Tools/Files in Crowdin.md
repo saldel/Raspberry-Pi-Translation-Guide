@@ -101,6 +101,8 @@ When translating segments with markdown content in curly brackets, please make s
 
 ![screenshot](images/Crowdin_files_md5.png)
 
+- Please do not translate names of folders, such as `en/resources`.
+
 ## Questions and problems
 
 If you have any questions or problems when translating the different types of files, you can post a question on Crowdin, email your fellow translators, or get in touch with Nina (nina@raspberrypi.org).
