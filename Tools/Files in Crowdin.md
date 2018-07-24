@@ -20,7 +20,7 @@ You should begin with translating the finished project code:
 
 ![screenshot](images/Crowdin-download.png)
 
-- HTML files (`*.html`) can be opened and translated via Crowdin Editor, which conveniently hides all HTML tags so you'll only see the displayable content.
+- HTML files (`*.html`) can be opened and translated via Crowdin Editor, which conveniently hides all HTML tags so you'll only see the displayable content. Please do not translate `*.css` and `*.js` files.
 
 - Any graphic files should be treated in the same way as those in the **images** folder (see below).
 
