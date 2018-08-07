@@ -1,43 +1,43 @@
-# Welcome to Raspberry Pi translation community! 
+# Benvenuti nella community dei traduttori di Raspberry Pi! 
 
-The Raspberry Pi Foundation is a UK-based charity that works to put the power of digital making into the hands of people all over the world. 
+La Fondazione Raspberry Pi Foundation è un'associazione no-profit basata nel Regno Unito che lavora per mettere a disposizione di tutti nel mondo la potenza delle tecnologie digitali. 
 
-In order to make our content available globally, we need translations of it in various languages. Professional translation on this scale is expensive, and is therefore unsustainable for a small non-profit organisation such as ours. This is why we need your support — as a translation volunteer, you will make it possible for us to reach millions of children all over the world and help them learn essential digital skills. Thank you for helping us out!
+Per rendere disponibili i nostri contenuti a livello globale, abbiamo bisogno di tradurli nelle varie lingue. Traduzioni professionali su questa scala sono molto costose e, pertanto, insostenibili per una piccola organizzazione no-profit come la nostra. Ecco perché abbiamo bisogno del vostro supporto - come traduttori volontari, per renderci possibile raggiungere milioni di ragazzi in tutto il mondo e aiutarli ad apprendere le competenze digitali essenziali. Grazie per il vostro aiuto!
 
-If you have not been in touch with us before, please fill in [this form](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform) before translating any of our projects. 
+Se non siamo mai entrati in contatto prima, perfavore riempi [questo modulo](https://docs.google.com/a/raspberrypi.org/forms/d/e/1FAIpQLSdoxUvmGwbpx3zcCxXwJEqaBoAQHsTu-v5R4uOTSxv9-OzUEw/viewform) prima di tradurre uno qualsiasi dei nostri progetti. 
 
-## About our resources
+## Riguardo le nostre risorse
 
-Most of the time, we will be translating our learning resources available on the [Raspberry Pi website](https://projects.raspberrypi.org/en/) so we focus on these here. We will occasionally have other translation tasks, such as translation of subtitles for our teacher training videos - you will receive instructions for these if the need arises. 
+La maggior parte delle volte, abbiamo necessità di tradurre le nostre risorse di apprendimento rese disponibili sul [Sito Web Raspberry Pi](https://projects.raspberrypi.org/en/), perciò in questa sede ci focalizziamo su di esse. Occasionalmente abbiamo anche altri task di traduzione, come la traduzione di sottotitoli per i video dei nostri insegnanti - riceverai a tal proposito istruzioni se si presentasse la necessità. 
 
-Many of our learning resources focus on teaching programming with Scratch, Python, HTML/CSS and JavaScript. If you’re not familiar with these programming languages, please read the following guidelines which explain what they are and how you should approach them in translation:
+Molte delle nostre risorse di apprendimento si focalizzano sull'insegnamento della programmazione con Scratch, Python, HTML/CSS e JavaScript. Se non hai familiarità con questi linguaggi di programmazione, perfavore leggi le seguenti linee guida che spiegani cosa sono questi linguaggi e come dovresti approcciare la loro traduzione:
 
 -	[Python](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Python.md)
 - [Scratch](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20Scratch.md)
 - [HTML/CSS/JavaScript](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Technologies/Translating%20HTML.md)
 
-## About the process
+## Riguardo il processo
 
-To ensure high quality of translations, each project will typically go through three stages (unless we tell you otherwise):
+Al fine di assicurare un'alta qualità della traduzione, ogni progetto attraverserà tipicamente tre fasi (a meno che no ti diamo specifiche istruzioni diverse):
 
-1. Translation: a volunteer translator either translates a text from the beginning, or post-edits a text that was pre-translated using machine translation software. This is done via Crowdin (see **Where to start** below).
+1. Traduzione: un traduttore volontario o traduce un testo dall'inizio, oppure rifinisce la traduzione realizzata mediante software di traduzione automatica. Questo è fatto usando Crowdin (vedi di seguito **Da dove iniziare**).
 
-2. Review: a volunteer reviewer compares the translation to its English original to make sure that nothing has been mistranslated, omitted, or added. This is done via Crowdin (see **Where to start** below).
+2. Revisione: un traduttore volontario confronta la traduzione con la sua versione originale in Inglese per assicurare che non vi siano errate traduzioni, omissioni, o aggiunte. Questo è fatto usando Crowdin (vedi di seguito **Da dove iniziare**).
 
-3. Test: a volunteer tester goes through the translated and reviewed text to try it out and ensure that it can be used for its purpose. This is done outside of Crowdin - the tester will access the draft version of the project uploaded to our website and will test it by following the project step by step. The link to the test version will be added to Task Manager (see **Where to start** below) once the translation and review have been done, and we uploaded the project to the website.
+3. Test: un tester volontario legge il testo tradotto e lo rivede per verificare e assicurare che possa essere utilizzato per il suo scopo. Questo è fatto al di fuori di Crowdin - il tester accederà alla versione bozza del progetto caricata sul nostro sito Web e lo verificherà seguendo il progetto passo passo. Il link alla versione di test sarà aggiunto a Task Manager (vedi di seguito **Da dove iniziare**) una volta che la traduzione e la revisione sono state completate, e che abbiamo caricato il progetto sul sito Web.
 
-## Where to start
+## Da dove iniziare
 
-To start translating, please follow these steps:
+Per iniziare a tradurre, segui perfavore i seguenti passi:
 
-1. Set up an account in **Crowdin** - find out how to do it [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin%20account.md). If you’re already signed up to Crowdin account, feel free to use your existing account. However, so that we can verify your contributions, **please make sure** your full name or the email address we have for you is recorded somewhere in your account settings. Find out [how to use Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md)
+1. Crea un account in **Crowdin** - cerca come farlo [qui](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin%20account.md). Se sei già registrato come utente Crowdin, dei libero di usare il tuo account già esistente. Comunque, affinché possiamo verificare i tuoi contributi, **perfavore assicurati** che il tuo nome completo o il tuo indirizzo email in nostro possesso siano registrati da quanche parte nelle tue impostazioni dell'utenza Crowdin. Vedi [come usare Crowdin](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Crowdin.md)
 
-2. Go to our **Task Manager**, select your language from the tabs, and choose the projects you want to translate, review or test. Find out how to use the Task Manager [here](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
+2. Vai nel nostro **Task Manager**, seleziona la tua lingua dai tab, e scegli il progetto che vuoi tradurre, revisionare o testare. Vedi come usare Task Manager [qui](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Task%20Manager.md).
 
-3. Using the correct link from the Task Manager, go to Crowdin to start working on your chosen project. [This document](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) explains how to do it step-by-step. Please finish your task within 30 days and use [this checklist](Tools/images/Checklist.pdf) at the end of each task. 
+3. Usiando il link corretto da Task Manager, vai su Crowdin per iniziare a lavorare sul progetto scelto. [Questo documento](https://github.com/ninaszymor/Raspberry-Pi-Translation-Guide/blob/master/Tools/Files%20in%20Crowdin.md) spiega come farlo passo-dopo-passo. Perfavore termina il tuo task entro 30 giorni e usa [questa checklist](Tools/images/Checklist.pdf) alla fine di ogni task. 
 
-Please note that we are still looking for the best tools for the process so things may change. We will notify you if we replace any of these tools but please **check this document regularly** to see if anything has changed. 
+Perfavore nota che siamo sempre alla ricerca dei migliori strumenti per il processo quindi il modo di procedere potrebbe cambiare. Ti invieremo una notifica se se decideremo di sostituire uno qualsiasi di questi strumenti, ma perfavore **verifica regolarmente i contenuti di questo documento** per vedere se è cambiato qualcosa. 
 
-## Questions
+## Domande
 
-If you have any quesions or comments about the process, please contact our Translation Manager (nina@raspberrypi.org).
+Se hai una qualsiasi domanda o commento riguardo al processo, perfavore contatta il nostro Translation Manager (nina@raspberrypi.org).
