@@ -1,6 +1,6 @@
 # How to use Crowdin
 
-Each project in Crowdin has a home page which provides a description of the project and a list the avialable languages:
+Each project in Crowdin has a home page which provides a description of the project and a list the available languages:
 
 ![screenshot](images/Crowdin-project-page.png)
 
